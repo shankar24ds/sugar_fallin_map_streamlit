@@ -41,7 +41,7 @@ def main():
     st.set_page_config(layout="wide")
     st.title("Delivery Plot 2021 & 2022")
     map_ = cust()
-    st_folium(map_, width = 1400)
+    st_folium(map_)
 
 if __name__ == '__main__':
     main()
