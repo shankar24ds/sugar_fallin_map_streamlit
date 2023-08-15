@@ -1,0 +1,1358 @@
+sale_date,product,flavour,customization,quantity_value,quantity_units,price,mode_of_payment,toppers,delivery,delivery_charges,latitude,longitude,product_raw,flavour_raw,year_,month_,day_,dow_,week_,quarter_
+17-10-2022,,,,,,,,,,,,,,,2022,10,17,1,42,4
+01-07-2022,cake,mango,,500,gram,500,acc,,,,,,cake,mango,2022,7,1,5,26,3
+03-06-2021,cake,mango,,500,gram,450,acc,,no,,,,cake,mango,2021,6,3,4,22,2
+15-04-2022,cake,mango,,1000,gram,900,acc,,,,,,cake,mango,2022,4,15,5,15,2
+09-11-2022,,brownie,,15,pcs,975,acc,,,,,,,brownies,2022,11,9,3,45,4
+30-08-2022,brookie,chocolate,,4,box,1400,acc,,,,,,brookies,chocolate,2022,8,30,2,35,3
+30-12-2022,cake,,,,,,,,,,,,cake,,2022,12,30,5,52,4
+26-12-2022,cake,,,500,gram,550,acc,,,,,,cake,,2022,12,26,1,52,4
+11-09-2021,cake,mango,,1000,gram,,,,no,,,,cake,mango,2021,9,11,6,36,3
+29-11-2022,,,,,,,,,,,,,,,2022,11,29,2,48,4
+17-07-2022,cake,,,,,,,,,,,,cake,,2022,7,17,0,28,3
+03-03-2022,cake,chocolate,,1500,gram,1700,acc,,,,,,cake,chocolate,2022,3,3,4,9,1
+23-10-2022,,,remainder,,,,,,,,,,,,2022,10,23,0,42,4
+30-07-2022,cake,blackforest,,1000,gram,,,,,,,,cake,blackforest,2022,7,30,6,30,3
+21-10-2022,,,,,,,,,,,,,,,2022,10,21,5,42,4
+03-05-2022,cake,blackforest,,500,gram,500,acc,,,,,,cake,blackforest,2022,5,3,2,18,2
+30-12-2021,fruit_cake,,,1000,gram,700,acc,,,,,,fruitcake,,2021,12,30,4,52,4
+25-06-2022,cake,truffle,,500,gram,550,acc,,,,,,cake,truffle,2022,6,25,6,25,2
+29-06-2021,cake,mango,,500,gram,450,acc,,,,,,cake,mango,2021,6,29,2,26,2
+23-07-2022,cake,mango,,1000,gram,950,acc,,,,,,cake,mango,2022,7,23,6,29,3
+19-11-2022,brownie,chocolate,,6,pcs,390,acc,,,,,,brownies,chocolate,2022,11,19,6,46,4
+19-11-2022,brownie,misc_&_combo,,3,pcs,240,acc,,,,,,brownies,"hazelnut ,special ,",2022,11,19,6,46,4
+08-12-2022,brownie,,,6,pcs,650,acc,,,,,,brownies,,2022,12,8,4,49,4
+10-12-2022,cupcake,lotus_biscoff,,6,pcs,720,acc,,,,,,cupcakes,biscoff,2022,12,10,6,49,4
+17-12-2022,cupcake,mixed,,3,pcs,260,acc,,,,,,cupcake,mixed,2022,12,17,6,50,4
+22-12-2022,brownie,chocolate,,12,pcs,840,acc,,,,,,brownies,chocolate,2022,12,22,4,51,4
+29-05-2022,cheesecake,,,5,pcs,511,acc,,,,,,cheese cake,,2022,5,29,0,21,2
+01-07-2022,brookie,chocolate,,1,box,280,acc,,,,,,brookies,chocolate,2022,7,1,5,26,3
+05-07-2022,bento,truffle,,1,box,250,acc,,,,,,bento,truffle,2022,7,5,2,27,3
+04-08-2022,bento,truffle,blue colour,1,box,250,acc,,,,,,bento,truffle,2022,8,4,4,31,3
+18-05-2021,cake,truffle,,500,gram,500,cash,,no,,,,cake,truffle,2021,5,18,2,20,2
+21-08-2022,cake,,rocket cake,1500,gram,2400,acc,,,,,,cake,,2022,8,21,0,33,3
+09-05-2022,cake,blackforest,,1000,gram,,,,,,,,cake,blackforest,2022,5,9,1,19,2
+29-09-2021,entremet,strawberry,,10,pcs,1000,acc,,yes,,,,entrimet,strawberry,2021,9,29,3,39,3
+21-11-2021,cookie,wholewheat,,250,gram,,,,,,,,cookies,whole wheat,2021,11,21,0,46,4
+19-08-2022,bento,truffle,,1,box,250,acc,,,,,,bento,truffle,2022,8,19,5,33,3
+06-09-2021,cake,strawberry,,2000,gram,,,,,,,,cake,strawberry,2021,9,6,1,36,3
+26-11-2022,moulded_ganache_cake,strawberry,velvet heart,1,size_small,1300,acc,,,,,,moulded ganache,strawberry,2022,11,26,6,47,4
+12-12-2022,bento,truffle,,1,size_small,250,acc,,,,,,bento,truffle,2022,12,12,1,50,4
+26-02-2022,cake,chocolate,pinkey baby,500,gram,1000,acc,,,,,,cake,chocolate,2022,2,26,6,8,1
+15-05-2022,cake,mango,,500,gram,500,cash,,,,,,cake,mango,2022,5,15,0,19,2
+31-08-2022,brownie,chocolate,,9,pcs,580,acc,,,,11.06015,77.08423,brownies,chocolate,2022,8,31,3,35,3
+27-05-2022,cupcake,chocolate,monogram (A& C),2,box,1600,acc,,,,11.10676,77.17336,cupcake,chocolate,2022,5,27,5,21,2
+30-10-2022,brownie,chocolate,,1,size_small,500,acc,,,,11.06145,77.08672,brownie cake,chocolate,2022,10,30,0,43,4
+03-11-2022,moulded_ganache_cake,truffle,redvelvet heart,1,size_small,1350,,,,,11.02275,76.97833,moulded ganache cake,truffle,2022,11,3,4,44,4
+04-12-2022,moulded_ganache_cake,truffle,pink matrix heart,1,size_small,1300,acc,,,,11.05798,77.07468,moulded ganache,truffle,2022,12,4,0,48,4
+09-06-2021,cake,pineapple,,500,gram,450,acc,,no,,,,cake,pineapple,2021,6,9,3,23,2
+23-03-2021,cake,whiteforest,,500,gram,450,acc,,yes,,11.06576,77.08543,cake,whiteforest,2021,3,23,2,12,1
+21-04-2021,cake,rose,,500,gram,500,cash,,yes,,11.05879,77.07477,cake,rose,2021,4,21,3,16,2
+09-02-2022,cake,pineapple,,500,gram,500,acc,,no,,,,cake,pineapple,2022,2,9,3,6,1
+20-06-2022,cake,truffle,blade,500,gram,800,acc,,,,11.09331,76.99735,cake,truffle,2022,6,20,1,25,2
+20-11-2022,cake,strawberry,,500,gram,700,acc,,,,11.06836,77.10814,cake,strawberry,2022,11,20,0,46,4
+22-12-2022,cake,chocolate,100 days,500,gram,980,acc,,,,11.06495,77.0819,cake,chocolate,2022,12,22,4,51,4
+05-03-2022,cake,pineapple,,500,gram,500,cash,,,,11.03466,77.02364,cake,pineapple,2022,3,5,6,9,1
+06-07-2021,cake,redvelvet,,500,gram,800,acc,50,yes,,10.99694,77.06896,cake,redvelvet,2021,7,6,2,27,3
+10-07-2021,cake,chocomango,,500,gram,550,acc,,yes,,11.00178,77.08187,cake,chocomango delight,2021,7,10,6,27,3
+10-07-2021,cake,fusionberries,,500,gram,650,acc,,yes,,11.05356,77.06392,cake,fussionberries,2021,7,10,6,27,3
+23-07-2021,cake,pineapple,,500,gram,650,acc,,yes,30,11.01631,77.13317,cake,pineapple,2021,7,23,5,29,3
+26-07-2021,cake,whiteforest,,500,gram,650,acc,,yes,30,,,cake,whiteforest,2021,7,26,1,30,3
+01-01-2021,cake,chocolate,,500,gram,450,cash,,yes,,11.05851,77.07965,cake,chocolate,2021,1,1,5,53,1
+01-01-2021,cake,chocolate,golden sugar,500,gram,600,acc,,no,,,,cake,chocolate,2021,1,1,5,53,1
+05-01-2021,cake,hazelnut,,500,gram,680,acc,,yes,,11.00521,77.02689,cake,hazelnuts,2021,1,5,2,1,1
+06-01-2021,cake,truffle,,500,gram,450,cash,,yes,,11.07669,77.07621,cake,truffle,2021,1,6,3,1,1
+09-01-2021,cake,truffle,macarons,500,gram,900,cash,,yes,,11.04487,77.03657,cake,truffle,2021,1,9,6,1,1
+12-01-2021,cake,chocolate,couple,500,gram,700,cash,,yes,,11.05997,77.08789,cake,chocolate,2021,1,12,2,2,1
+16-01-2021,cake,chocolate,kitkat,500,gram,1000,,,yes,,11.04659,77.05269,cake,chocolate,2021,1,16,6,2,1
+17-01-2021,cake,chocolate,,500,gram,500,cash,,yes,,11.03102,77.02065,cake,chocolate,2021,1,17,0,2,1
+22-06-2021,cake,truffle,,500,gram,500,,,no,,,,cake,truffle,2021,6,22,2,25,2
+18-01-2021,cake,greenapple,,500,gram,400,acc,,yes,,11.04186,77.07762,cake,green apple,2021,1,18,1,3,1
+25-01-2021,cake,truffle,,500,gram,450,,,no,,,,cake,truffle,2021,1,25,1,4,1
+27-01-2021,cake,truffle,caged,500,gram,650,acc,,yes,,22.61511,84.496,cake,truffle,2021,1,27,3,4,1
+28-01-2021,cake,whiteforest,,500,gram,400,cash,,yes,,11.05079,77.08172,cake,whiteforest,2021,1,28,4,4,1
+01-02-2021,cake,blackforest,care cake,500,gram,650,acc,,yes,,11.04621,77.01415,cake,blackforest,2021,2,1,1,5,1
+02-02-2021,cake,chocolate,,500,gram,450,acc,,yes,,11.04098,77.07723,cake,chocolate,2021,2,2,2,5,1
+03-02-2021,cake,truffle,,500,gram,500,cash,,yes,,11.01799,77.13027,cake,truffle,2021,2,3,3,5,1
+07-02-2021,cake,chocochip,,500,gram,450,acc,,yes,,11.02569,77.01716,cake,chocochip,2021,2,7,0,5,1
+08-06-2022,cake,chocolate,,500,gram,600,acc,,,,,,cake,Chocolate,2022,6,8,3,23,2
+08-06-2022,cake,mango,,500,gram,500,acc,,,,,,cake,mango,2022,6,8,3,23,2
+22-06-2022,cake,chocolate,,500,gram,500,acc,,,,,,cake,Cholate,2022,6,22,3,25,2
+22-06-2022,cake,chocolate,,500,gram,500,acc,,,,,,cake,chocolate,2022,6,22,3,25,2
+24-06-2022,cake,truffle,,500,gram,550,acc,,,,,,cake,truffle,2022,6,24,5,25,2
+29-06-2022,cake,pineapple,,500,gram,450,acc,,,,,,cake,pineapple,2022,6,29,3,26,2
+01-07-2022,cake,truffle,,500,gram,550,acc,,,,,,cake,truffle,2022,7,1,5,26,3
+01-07-2022,cake,rosemilk,,500,gram,750,acc,,,,,,cake,rosemilk,2022,7,1,5,26,3
+11-02-2021,cake,redvelvet,,500,gram,750,acc,,yes,,11.06899,77.18446,cake,redvelvet,2021,2,11,4,6,1
+12-02-2021,cake,truffle,,500,gram,500,acc,,,,11.02664,77.12648,cake,truffle,2021,2,12,5,6,1
+14-02-2021,cake,blackforest,,500,gram,500,cash,,yes,,11.0405,76.98951,cake,blackforest,2021,2,14,0,6,1
+15-02-2021,cake,strawberry,freefire,500,gram,750,cash,,yes,,11.10515,77.17505,cake,straberry,2021,2,15,1,7,1
+15-02-2021,cake,blackforest,,500,gram,400,cash,,,,11.06556,77.0854,cake,blackforest,2021,2,15,1,7,1
+04-07-2022,cake,chocochunk,,500,gram,600,acc,,,,,,cake,chocochunk,2022,7,4,1,27,3
+29-08-2022,cake,chocolate,,500,gram,450,,,,,,,cake,chocolate,2022,8,29,1,35,3
+04-10-2022,cake,chocolate,,500,gram,500,cash,,,,,,cake,chocolate,2022,10,4,2,40,4
+03-11-2022,cake,lotus_biscoff,444,500,gram,800,acc,,,,,,cake,biscoff,2022,11,3,4,44,4
+02-03-2021,cake,chocolate,3roses,500,gram,,,,,,,,cake,chocolate,2021,3,2,2,9,1
+02-03-2021,cake,chocolate,,500,gram,750,acc,,no,,,,cake,chocolate,2021,3,2,2,9,1
+05-03-2021,cake,chocochip,with macarons,500,gram,610,cash,,yes,30,,,cake,chocochip,2021,3,5,5,9,1
+05-03-2021,cake,blackforest,,500,gram,400,,,yes,150,10.94396,76.97645,cake,blackforest,2021,3,5,5,9,1
+05-03-2021,cake,blackforest,,500,gram,400,,,yes,,,,cake,blackforest,2021,3,5,5,9,1
+06-03-2021,cake,mango,,500,gram,400,cash,,yes,,11.05998,77.08352,cake,mango,2021,3,6,6,9,1
+08-03-2021,cake,strawberry,,500,gram,450,acc,,yes,,11.04186,77.07762,cake,straberry,2021,3,8,1,10,1
+08-03-2021,cake,whiteforest,,500,gram,450,cash,,yes,,11.05079,77.08172,cake,whiteforest,2021,3,8,1,10,1
+09-03-2021,cake,truffle,,500,gram,500,cash,,yes,,11.06123,77.08733,cake,truffle,2021,3,9,2,10,1
+10-03-2021,cake,chocolate,,500,gram,450,acc,,yes,,11.00061,77.08046,cake,chocolate,2021,3,10,3,10,1
+12-06-2021,cake,mango,,500,gram,450,acc,,no,,,,cake,mango,2021,6,12,6,23,2
+11-03-2021,cake,chocolate,,500,gram,480,cash,,yes,,11.00913,77.04268,cake,chocolate,2021,3,11,4,10,1
+13-03-2021,cake,chocolate,,500,gram,500,acc,,yes,,11.09602,77.0317,cake,chocolate,2021,3,13,6,10,1
+13-03-2021,cake,truffle,,500,gram,580,acc,,yes,,10.98094,77.03031,cake,truffle,2021,3,13,6,10,1
+13-03-2021,cake,chocolate,,500,gram,450,,,yes,,,,cake,chocolate,2021,3,13,6,10,1
+14-03-2021,cake,oreo,,500,gram,500,cash,,yes,,11.03554,77.02346,cake,oreo,2021,3,14,0,10,1
+14-03-2021,cake,mango,,500,gram,450,cash,,yes,,11.03554,77.02346,cake,mango,2021,3,14,0,10,1
+30-03-2021,cake,blackforest,,500,gram,400,acc,,no,,,,cake,blackforest,2021,3,30,2,13,1
+08-04-2021,cake,chocolate,,500,gram,450,acc,,yes,,11.0277,77.12869,cake,chocolate,2021,4,8,4,14,2
+09-04-2021,cake,truffle,,500,gram,500,acc,,yes,,11.04099,77.07693,cake,truffle,2021,4,9,5,14,2
+11-04-2021,cake,strawberry,rose,500,gram,800,acc,,yes,,,,cake,straberry,2021,4,11,0,14,2
+12-04-2021,cake,misc_&_combo,,500,gram,500,cash,,yes,,11.05313,77.07495,cake,chococrunch,2021,4,12,1,15,2
+27-04-2021,cake,pineapple,bride to be,500,gram,1100,acc,100,yes,,11.01763,76.92019,cake,pineapple,2021,4,27,2,17,2
+29-04-2021,cake,whiteforest,,500,gram,480,acc,,yes,,11.06551,77.08584,cake,whiteforesf,2021,4,29,4,17,2
+30-04-2021,cake,caramel,rotract,500,gram,950,acc,30,yes,,11.01289,76.98588,cake,caramel,2021,4,30,5,17,2
+08-05-2021,cake,redvelvet,,500,gram,750,acc,,yes,,11.06041,77.08415,cake,redvelvet,2021,5,8,6,18,2
+08-05-2021,cake,blackforest,,500,gram,400,acc,,yes,,11.03992,77.03756,cake,blackforest,2021,5,8,6,18,2
+12-05-2021,cake,chocolate,,500,gram,450,cash,,no,,,,cake,chocolate,2021,5,12,3,19,2
+12-05-2021,cake,caramel,,500,gram,500,acc,,yes,,11.05123,77.08158,cake,caramel,2021,5,12,3,19,2
+15-05-2021,cake,strawberry,,500,gram,400,acc,,no,,,,cake,strawberry,2021,5,15,6,19,2
+17-05-2021,cake,strawberry,,500,gram,450,cash,,yes,,11.07317,77.10265,cake,strawberry,2021,5,17,1,20,2
+17-05-2021,cake,strawberry,,500,gram,400,cash,,yes,,11.08019,77.07585,cake,strawberry,2021,5,17,1,20,2
+18-05-2021,cake,blueberry,1st night,500,gram,800,acc,,yes,,11.09553,77.0291,cake,Blueberry,2021,5,18,2,20,2
+21-05-2021,cake,redvelvet,,500,gram,780,acc,,yes,,11.00844,77.04287,cake,redvelvet,2021,5,21,5,20,2
+22-05-2021,cake,fusionberries,,500,gram,600,acc,,yes,,11.09515,77.15134,cake,fussionberries,2021,5,22,6,20,2
+11-06-2021,cake,pineapple,,500,gram,450,acc,,no,,,,cake,pineapple,2021,6,11,5,23,2
+12-06-2021,cake,pineapple,,500,gram,600,,,no,,,,cake,pineapple,2021,6,12,6,23,2
+25-06-2021,cake,truffle,,500,gram,500,acc,,yes,,,,cake,truffle,2021,6,25,5,25,2
+25-06-2021,cake,truffle,,500,gram,600,cash,,yes,,,,cake,truffle,2021,6,25,5,25,2
+28-06-2021,cake,redvelvet,,500,gram,750,acc,,,,,,cake,redvelvet,2021,6,28,1,26,2
+29-06-2021,cake,pineapple,,500,gram,450,,,,,,,cake,pine apple,2021,6,29,2,26,2
+01-07-2021,cake,chocomango,,500,gram,450,acc,,yes,,11.04186,77.07762,cake,chocomango,2021,7,1,4,26,3
+03-07-2021,cake,chocomango,,500,gram,550,cash,,no,,,,cake,chocomango,2021,7,3,6,26,3
+05-07-2021,cake,chocochip,,500,gram,550,acc,,yes,,11.06762,77.0851,cake,chocochip,2021,7,5,1,27,3
+16-07-2021,cake,truffle,,500,gram,500,acc,,yes,,11.01212,77.04999,cake,truffle,2021,7,16,5,28,3
+21-07-2021,cake,truffle,,500,gram,550,cash,,yes,100,,,cake,truffle,2021,7,21,3,29,3
+21-07-2021,cake,truffle,,500,gram,550,acc,,yes,,11.05074,77.06737,cake,truffle,2021,7,21,3,29,3
+29-07-2021,cake,truffle,,500,gram,650,acc,,yes,50,11.1118,77.0226,cake,truffle,2021,7,29,4,30,3
+08-02-2021,cake,blackforest,,500,gram,400,cash,,,,,,cake,blackforest,2021,2,8,1,6,1
+30-07-2021,cake,fusionberries,,500,gram,700,acc,,yes,50,10.93978,76.97324,cake,fussionberries,2021,7,30,5,30,3
+30-07-2021,cake,blackforest,half rose,500,gram,800,acc,,yes,,11.07042,77.0017,cake,blackforest,2021,7,30,5,30,3
+01-08-2021,cake,truffle,cagecake,500,gram,500,cash,,,,,,cake,truffle,2021,8,1,0,30,3
+03-08-2021,cake,chocochip,,500,gram,550,acc,,yes,,11.05092,77.06824,cake,chocochip,2021,8,3,2,31,3
+03-08-2021,cake,chocochip,,500,gram,550,acc,,yes,,10.93978,76.97324,cake,chocochip,2021,8,3,2,31,3
+08-08-2021,cake,redvelvet,,500,gram,800,acc,,no,,,,cake,redvelvet,2021,8,8,0,31,3
+31-08-2021,cake,truffle,,500,gram,550,cash,,yes,,11.05944,77.0751,cake,truffle,2021,8,31,2,35,3
+02-09-2021,cake,pineapple,,500,gram,500,acc,,no,,,,cake,pine apple,2021,9,2,4,35,3
+03-10-2021,cake,oreo,pikachu,500,gram,950,acc,,yes,,11.07618,76.99778,cake,oreo,2021,10,3,0,39,4
+24-08-2021,cake,whiteforest,rose,500,gram,650,cash,,yes,,11.09432,77.06622,cake,whiteforest,2021,8,24,2,34,3
+05-08-2021,cake,truffle,,500,gram,550,acc,,yes,,11.051,77.06735,cake,truffle,2021,8,5,4,31,3
+08-08-2021,cake,fusionberries,,500,gram,650,acc,,yes,50,11.0403,76.99371,cake,fusion berries,2021,8,8,0,31,3
+06-03-2022,cake,greenapple,,500,gram,550,acc,,,,11.14526,77.15023,cake,greenapple,2022,3,6,0,9,1
+08-08-2021,cake,truffle,,500,gram,550,acc,,yes,,,,cake,truffle,2021,8,8,0,31,3
+09-08-2021,cake,redvelvet,,500,gram,800,acc,,,,10.99735,77.03171,cake,redvelvet,2021,8,9,1,32,3
+28-08-2021,cake,truffle,,500,gram,550,acc,100,yes,,10.9948,76.99121,cake,chocotruffle,2021,8,28,6,34,3
+06-09-2021,cake,redvelvet,,500,gram,800,acc,,yes,,11.07824,77.10154,cake,redvelvet,2021,9,6,1,36,3
+07-09-2021,cake,chocolate,,500,gram,500,acc,,yes,,11.03409,77.03286,cake,chocolate,2021,9,7,2,36,3
+09-09-2021,cake,chocochip,pinkey bride,500,gram,600,acc,,yes,,11.05453,77.0455,cake,chocochip,2021,9,9,4,36,3
+09-09-2021,cake,redvelvet,harini,500,gram,800,cash,,yes,,11.05652,77.06342,cake,redvelvet,2021,9,9,4,36,3
+18-09-2021,cake,mango,,500,gram,600,acc,,yes,,11.04038,77.03255,cake,mango,2021,9,18,6,37,3
+19-09-2021,cake,redvelvet,,500,gram,800,acc,,yes,,11.0505,77.01186,cake,redvelvet,2021,9,19,0,37,3
+22-09-2021,cake,truffle,,500,gram,650,acc,,yes,,11.03846,76.9914,cake,truffle,2021,9,22,3,38,3
+23-09-2021,cake,chocolate,,500,gram,600,acc,,yes,,11.05051,77.03881,cake,chocolate special,2021,9,23,4,38,3
+24-09-2021,cake,chocolate,,500,gram,700,acc,,yes,,11.07824,77.10154,cake,chocolate,2021,9,24,5,38,3
+28-09-2021,cake,hazelnut,,500,gram,600,acc,,yes,,11.03429,77.03338,cake,hazelnuts,2021,9,28,2,39,3
+28-09-2021,cake,chocovanilla,,500,gram,500,cash,,yes,,11.06242,77.08261,cake,chocovanilla,2021,9,28,2,39,3
+09-10-2021,cake,whiteforest,,500,gram,500,cash,,yes,,11.033,77.03486,cake,whiteforest,2021,10,9,6,40,4
+11-10-2021,cake,truffle,baby cake 6month,500,gram,900,acc,,yes,,11.00492,77.05113,cake,truffle,2021,10,11,1,41,4
+12-10-2021,cake,truffle,rocher,500,gram,590,acc,,yes,,,,cake,truffle,2021,10,12,2,41,4
+14-10-2021,cake,whiteforest,,500,gram,450,cash,,yes,,11.07603,77.10063,cake,whitefirest,2021,10,14,4,41,4
+14-10-2021,misc_&_combo,whiteforest,,500,gram,660,,,yes,,10.98054,77.03032,cake&protein bars,whoteforest,2021,10,14,4,41,4
+15-10-2021,cake,blackforest,,500,gram,420,cash,,,,,,cake,blackforest,2021,10,15,5,41,4
+17-10-2021,cake,misc_&_combo,,500,gram,850,acc,,,,,,cake,country sugar chocolate,2021,10,17,0,41,4
+20-10-2021,cake,lotus_biscoff,,500,gram,650,acc,,,,,,cake,lotusbiscoff,2021,10,20,3,42,4
+20-10-2021,cake,chocolate,cage cake,500,gram,700,cash,,,,,,cake,chocolate,2021,10,20,3,42,4
+22-10-2021,cake,chocolate,fence heart,500,gram,780,acc,,,,,,cake,chocolate,2021,10,22,5,42,4
+25-10-2021,cake,blueberry,rose,500,gram,650,acc,,,,,,cake,blueberry,2021,10,25,1,43,4
+26-10-2021,cake,whiteforest,hearts in ribbon,500,gram,850,acc,,,,,,cake,whiteforest,2021,10,26,2,43,4
+27-10-2021,cake,truffle,hearts in ribbon,500,gram,650,acc,,,,,,cake,truffle,2021,10,27,3,43,4
+28-10-2021,cake,chocovanilla,anniversary,500,gram,650,acc,,,,,,cake,chocovanilla,2021,10,28,4,43,4
+06-11-2021,cake,blueberry,pre-wedding,500,gram,700,acc,,,,11.018,76.96955,cake,blueberry,2021,11,6,6,44,4
+15-11-2021,cake,truffle,,500,gram,550,acc,,,,,,cake,truffle,2021,11,15,1,46,4
+16-11-2021,cake,lotus_biscoff,half month,500,gram,900,acc,,,,11.09553,77.0291,cake,lotus biscoff,2021,11,16,2,46,4
+17-11-2021,cake,lotus_biscoff,,500,gram,750,acc,,,,10.98867,77.00331,cake,lotus biscoff,2021,11,17,3,46,4
+18-11-2021,cake,redvelvet,hearts in ribbon,500,gram,900,acc,,no,,,,cake,redvelvet,2021,11,18,4,46,4
+20-11-2021,cake,truffle,,500,gram,750,acc,,,,11.02591,77.0179,cake,truffle,2021,11,20,6,46,4
+20-11-2021,cake,redvelvet,teacher theam,500,gram,1000,acc,,,,11.06887,77.10884,cake,redvelvet,2021,11,20,6,46,4
+22-11-2021,cake,lotus_biscoff,,500,gram,750,acc,,,,11.02463,77.01546,cake,lotusbiscoff,2021,11,22,1,47,4
+03-12-2021,cake,lotus_biscoff,,500,gram,,,,yes,,11.04452,77.03674,cake,lotus,2021,12,3,5,48,4
+04-12-2021,cake,truffle,,500,gram,550,cash,,yes,,,,cake,truffle,2021,12,4,6,48,4
+07-12-2021,cake,truffle,,500,gram,650,acc,,yes,,11.10468,77.02354,cake,truffle,2021,12,7,2,49,4
+09-12-2021,cake,blackforest,,500,gram,420,acc,,no,,,,cake,blackforest,2021,12,9,4,49,4
+12-12-2021,cake,blackforest,,500,gram,400,,,yes,,,,cake,blackforest,2021,12,12,0,49,4
+12-12-2021,cake,kesarbadam,,500,gram,750,cash,,yes,,11.00332,76.95276,cake,kesarbadham,2021,12,12,0,49,4
+13-12-2021,cake,truffle,,500,gram,550,cash,,yes,,11.05288,76.99544,cake,truffle,2021,12,13,1,50,4
+14-12-2021,cake,truffle,half month boy baby,500,gram,900,acc,,yes,,10.99928,77.02079,cake,truffle,2021,12,14,2,50,4
+09-05-2021,cake,chocolate,,500,gram,450,cash,,no,,,,cake,chocolate,2021,5,9,0,18,2
+15-12-2021,cake,strawberry,PS cake,500,gram,950,acc,,yes,,10.97954,77.03749,cake,Strawberry,2021,12,15,3,50,4
+20-12-2021,cake,strawberry,,500,gram,500,cash,,,,11.05965,77.03789,cake,strawberry,2021,12,20,1,51,4
+24-12-2021,cake,truffle,,500,gram,550,acc,,,,11.10541,77.17379,cake,truffle,2021,12,24,5,51,4
+25-12-2021,cake,truffle,,500,gram,,,,,,11.05717,77.07038,cake,truffle,2021,12,25,6,51,4
+29-12-2021,fruit_cake,,,500,gram,400,acc,,,,11.01981,76.98457,fruitcake,,2021,12,29,3,52,4
+31-12-2021,cake,strawberry,,500,gram,650,acc,,,,11.03883,77.01504,cake,strawberry,2021,12,31,5,52,4
+31-12-2021,cake,chocolate,,500,gram,450,acc,,no,,,,cake,chocolate,2021,12,31,5,52,4
+03-01-2022,cake,whiterose,,500,gram,650,acc,,yes,,11.05604,77.04677,cake,white rose,2022,1,3,1,1,1
+06-01-2022,cake,strawberry,,500,gram,500,acc,,yes,,11.09483,77.04493,cake,strawberry,2022,1,6,4,1,1
+07-01-2022,cake,whiteforest,,500,gram,500,cash,,yes,,11.01758,76.96741,cake,whiteforest,2022,1,7,5,1,1
+07-01-2022,cake,whiteforest,,500,gram,500,cash,,yes,,,,cake,whiteforest,2022,1,7,5,1,1
+07-01-2022,cake,redvelvet,,500,gram,800,cash,,yes,,,,cake,redvelvet,2022,1,7,5,1,1
+03-01-2021,cake,chocolate,football,1500,gram,1500,acc,,no,,,,cake,chocolate,2021,1,3,0,53,1
+11-01-2022,cake,blueberry,,500,gram,650,acc,,yes,,11.02177,76.9962,cake,blueberry,2022,1,11,2,2,1
+11-11-2022,cake,kesarbadam,,500,gram,700,acc,,,,,,cake,kesarbadham,2022,11,11,5,45,4
+31-12-2022,cake,blackforest,,500,gram,450,,,,,,,cake,blackforest,2022,12,31,6,52,4
+17-01-2022,,truffle,,500,gram,550,,,yes,,10.9798,77.03887,,truffle,2022,1,17,1,3,1
+18-01-2022,cake,truffle,,500,gram,550,cash,,yes,,11.04023,77.07417,cake,truffle,2022,1,18,2,3,1
+18-01-2022,cake,rose,,500,gram,650,acc,,yes,,11.05604,77.04677,cake,rose,2022,1,18,2,3,1
+22-01-2022,cake,truffle,,500,gram,550,acc,,yes,,11.00524,77.05354,cake,truffle,2022,1,22,6,3,1
+22-01-2022,cake,strawberry,,500,gram,500,cash,,yes,,11.07271,77.10661,cake,strawberry,2022,1,22,6,3,1
+10-02-2022,cake,chocolate,,500,gram,450,acc,,,,11.0854,77.1221,cake,chocolate,2022,2,10,4,6,1
+10-02-2022,cake,mango,,500,gram,650,acc,,,,11.0854,77.1221,cake,mango,2022,2,10,4,6,1
+13-02-2022,cake,butterscotch,moon,500,gram,650,acc,,,,11.04016,77.03985,cake,butterscotch,2022,2,13,0,6,1
+13-02-2022,cake,blackforest,green and white toys,500,gram,650,acc,,,,11.0405,76.98951,cake,blackforest,2022,2,13,0,6,1
+14-02-2022,cake,redvelvet,,500,gram,850,acc,,,,11.08664,77.13361,cake,redvelvet,2022,2,14,1,7,1
+15-02-2022,cake,redvelvet,,500,gram,850,acc,,,,11.01153,77.08459,cake,redvelvet,2022,2,15,2,7,1
+15-02-2022,misc_&_combo,truffle,,500,gram,650,acc,,,,,,cake /country sugar,truffle,2022,2,15,2,7,1
+15-02-2022,cake,chocolate,,500,gram,450,acc,,no,,,,cake,chocolate,2022,2,15,2,7,1
+22-02-2022,cake,blueberry,redhearts,500,gram,750,cash,,,,11.04833,77.01392,cake,blueberry,2022,2,22,2,8,1
+23-02-2022,cake,whiteforest,,500,gram,500,acc,,,,11.08344,77.12256,cake,whiteforest,2022,2,23,3,8,1
+23-02-2022,cake,blackforest,,500,gram,450,acc,,,,11.08344,77.12256,cake,blackforest,2022,2,23,3,8,1
+26-02-2022,cake,misc_&_combo,advocate,500,gram,1050,acc,,,,11.08237,76.98732,cake,chocolate hazelnuts,2022,2,26,6,8,1
+15-04-2022,cake,hazelnut,,500,gram,750,acc,,,,11.05087,77.01145,cake,hazelnuts,2022,4,15,5,15,2
+17-04-2022,cake,truffle,couple cake,500,gram,1200,acc,,,,11.00818,77.07547,cake,truffle,2022,4,17,0,15,2
+17-04-2022,cake,chocochunk,,500,gram,550,acc,,,,11.01739,76.99594,cake,chocochunk,2022,4,17,0,15,2
+21-04-2022,cake,chocolate,iPhone,500,gram,700,acc,,,,11.05884,77.00565,cake,chocolate,2022,4,21,4,16,2
+22-04-2022,cake,truffle,,500,gram,550,acc,,,,11.05624,77.06694,cake,truffle,2022,4,22,5,16,2
+02-05-2022,cake,misc_&_combo,,500,gram,,,,,,,,cake,empty spong,2022,5,2,1,18,2
+02-05-2022,cake,rosemilk,,500,gram,680,acc,,,,11.10515,77.17505,cake,rosemilk,2022,5,2,1,18,2
+03-05-2022,cake,whiteforest,,500,gram,500,,,,,10.99679,77.02787,cake,whiteforest,2022,5,3,2,18,2
+13-05-2022,cake,truffle,,500,gram,550,acc,,,,11.06775,77.08516,cake,truffle,2022,5,13,5,19,2
+15-05-2022,cake,mango,,500,gram,500,cash,,,,11.06754,77.08503,cake,mango,2022,5,15,0,19,2
+17-05-2022,cake,,,500,gram,650,acc,,,,11.0358,77.01561,cake,,2022,5,17,2,20,2
+25-05-2022,cake,rosemilk,,500,gram,550,acc,,,,11.00666,77.0717,cake,rosemilk cake,2022,5,25,3,21,2
+26-05-2022,cake,redvelvet,"dad ,ECG ,",500,gram,850,acc,,,,11.05288,76.99543,cake,redvelvet,2022,5,26,4,21,2
+30-05-2022,cake,lotus_biscoff,,500,gram,750,acc,,,,11.06606,77.05213,cake,lotusbiscoff cake,2022,5,30,1,22,2
+04-06-2022,cake,chocolate,sugar free cake,500,gram,650,acc,,,,11.03283,77.03492,cake,chocolate,2022,6,4,6,22,2
+07-06-2022,cake,mango,,500,gram,450,,,no,,,,cake,mango,2022,6,7,2,23,2
+08-06-2022,cake,misc_&_combo,,500,gram,700,acc,,,,11.05034,77.01165,cake,Belgian chocolate,2022,6,8,3,23,2
+09-06-2022,cake,strawberry,isomalt,500,gram,650,cash,,,,11.09047,77.06452,cake,strawberry,2022,6,9,4,23,2
+10-06-2022,cake,strawberry,,500,gram,,,,no,,,,cake,strawberry,2022,6,10,5,23,2
+10-06-2022,cake,blueberry,,500,gram,650,acc,,no,,,,cake,blueberry,2022,6,10,5,23,2
+11-06-2022,cake,chocochunk,,500,gram,550,acc,,no,,,,cake,chocochunk,2022,6,11,6,23,2
+12-06-2022,cake,chocolate,karathey kid,500,gram,850,acc,,,,11.06417,77.03723,cake,chocolate,2022,6,12,0,23,2
+15-06-2022,cake,whiteforest,,500,gram,280,acc,,,,11.05794,77.00538,cake,whiteforest,2022,6,15,3,24,2
+19-06-2022,cake,redvelvet,diametric mould,500,gram,1500,acc,,,,11.08646,77.13692,cake,redvelvet,2022,6,19,0,24,2
+19-06-2022,cake,whiteforest,,500,gram,450,acc,,,,11.05288,76.99544,cake,whiteforest,2022,6,19,0,24,2
+20-06-2022,moulded_ganache_cake,chocolate,red heart velvet finish,500,gram,1300,cash,,,,11.04953,77.0122,moulded ganache cake,chocolate,2022,6,20,1,25,2
+25-06-2022,cake,truffle,yellow,500,gram,550,acc,,,,10.95893,76.97182,cake,truffle,2022,6,25,6,25,2
+25-06-2022,cake,chocovanilla,,500,gram,550,acc,,,,10.95893,76.97182,cake,chocovanilla,2022,6,25,6,25,2
+25-02-2022,cake,redvelvet,heartshape velvet finish,500,gram,1200,acc,,,,,,cake,redvelvet,2022,2,25,5,8,1
+03-09-2022,cake,truffle,,500,gram,550,cash,,,,11.08658,77.13401,cake,truffle,2022,9,3,6,35,3
+04-07-2022,cake,pineapple,,500,gram,500,acc,,,,11.06633,77.08522,cake,pine apple,2022,7,4,1,27,3
+06-07-2022,cake,blackforest,,500,gram,400,,,,,11.04602,77.04793,cake,blackforest,2022,7,6,3,27,3
+07-07-2022,cake,pineapple,,500,gram,500,acc,,,,11.09603,77.06924,cake,pineapple,2022,7,7,4,27,3
+08-07-2022,cake,rosemilk,,500,gram,700,cash,,,,10.91912,76.98473,cake,rosemilk,2022,7,8,5,27,3
+08-07-2022,cake,redvelvet,,500,gram,960,acc,,,,11.14181,77.02356,cake,redvelvet,2022,7,8,5,27,3
+13-07-2022,cake,blackforest,special mom,500,gram,,,,,,,,cake,blackforest,2022,7,13,3,28,3
+18-07-2022,cake,chocolate,,500,gram,550,acc,,,,11.06272,77.03061,cake,chocolate,2022,7,18,1,29,3
+25-07-2022,cake,rose,,500,gram,750,acc,,,,11.03973,77.04877,cake,rose,2022,7,25,1,30,3
+26-07-2022,cake,hazelnut,,500,gram,750,cash,,,,11.06541,77.05182,cake,hazelnuts,2022,7,26,2,30,3
+26-07-2022,cake,whiterose,,500,gram,750,acc,,,,11.06469,77.04471,cake,rosewhite,2022,7,26,2,30,3
+10-08-2022,cake,lotus_biscoff,,500,gram,800,cash,,,,10.91848,76.9848,cake,biscoff,2022,8,10,3,32,3
+11-08-2022,cake,misc_&_combo,,500,gram,800,cash,,,,10.91848,76.9848,cake,silkey rose,2022,8,11,4,32,3
+14-08-2022,cake,truffle,heart shape,500,gram,,,,,,11.01706,76.96221,cake,truffle,2022,8,14,0,32,3
+17-08-2022,cake,whiterose,,500,gram,700,acc,,,,,,cake,rosewhite,2022,8,17,3,33,3
+19-08-2022,cake,truffle,,500,gram,500,acc,,,,11.06947,77.08638,cake,truffle,2022,8,19,5,33,3
+21-08-2022,cake,redvelvet,,500,gram,850,acc,,,,,,cake,redvelvet,2022,8,21,0,33,3
+23-08-2022,cake,rosemilk,,500,gram,750,acc,,,,,,cake,rosemilk,2022,8,23,2,34,3
+24-08-2022,cake,strawberry,anniversary cake,500,gram,550,cash,,,,11.09425,77.06636,cake,strawberry,2022,8,24,3,34,3
+30-08-2022,cake,lotus_biscoff,Anni ersary cake,500,gram,800,acc,,,,11.07218,77.05652,cake,lotusbiscoff,2022,8,30,2,35,3
+31-08-2022,cake,butterscotch,Anniversary cake,500,gram,1080,acc,,,,11.07805,77.03718,cake,butterscotch,2022,8,31,3,35,3
+06-09-2022,cake,strawberry,,500,gram,500,acc,,,,11.08353,77.09124,cake,strawberry,2022,9,6,2,36,3
+18-09-2022,cake,oreo,,500,gram,750,acc,,,,11.08614,77.13435,cake,Oreo,2022,9,18,0,37,3
+19-09-2022,cake,snickers,,500,gram,650,acc,,,,11.05034,77.01165,cake,Snickers,2022,9,19,1,38,3
+23-09-2022,cake,chocolate,makeup kit,500,gram,600,acc,,,,11.03863,76.99158,cake,chocolate,2022,9,23,5,38,3
+24-09-2022,cake,truffle,,500,gram,500,cash,,,,11.05261,77.07438,cake,truffle,2022,9,24,6,38,3
+04-10-2022,cake,truffle,,500,gram,550,acc,,,,11.06705,77.08509,cake,truffle,2022,10,4,2,40,4
+13-10-2022,cake,hazelnut,,500,gram,750,acc,,,,,,cake,hazelnut,2022,10,13,4,41,4
+15-10-2022,cake,misc_&_combo,,500,gram,650,acc,,,,,,cake,sugar free,2022,10,15,6,41,4
+18-10-2022,cake,mango,,500,gram,750,acc,,,,11.0168,77.05888,cake,mango,2022,10,18,2,42,4
+21-10-2022,cake,truffle,,500,gram,550,acc,,,,11.10592,77.11379,cake,truffle,2022,10,21,5,42,4
+29-10-2022,cake,pineapple,,500,gram,500,cash,,,,11.0609,77.08203,cake,pineapple,2022,10,29,6,43,4
+30-10-2022,cake,chocochunk,,500,gram,550,acc,,,,,,cake,chocochunk,2022,10,30,0,43,4
+05-11-2022,cake,strawberry,,500,gram,500,acc,,,,11.00859,77.0034,cake,strawberry,2022,11,5,6,44,4
+14-11-2022,cake,redvelvet,,500,gram,800,acc,,,,,,cake,redvelvet,2022,11,14,1,46,4
+14-11-2022,cake,redvelvet,,500,gram,800,acc,,,,11.06099,77.08572,cake,redvelvet,2022,11,14,1,46,4
+16-11-2022,cake,greenapple,,500,gram,500,acc,,,,10.92258,76.98262,cake,greenapple,2022,11,16,3,46,4
+27-11-2022,cake,chocolate,,500,gram,500,acc,,,,,,cake,chocolate,2022,11,27,0,47,4
+30-11-2022,cake,truffle,,500,gram,550,cash,,,,11.03488,77.0145,cake,truffle,2022,11,30,3,48,4
+04-12-2022,cake,strawberry,anniversary cake,500,gram,860,acc,,,,11.06392,77.08152,cake,strawberry,2022,12,4,0,48,4
+12-12-2022,cake,misc_&_combo,,500,gram,800,acc,,,,11.0547,77.04474,ceke,rosevelvet,2022,12,12,1,50,4
+12-12-2022,cake,truffle,,500,gram,550,acc,,,,11.05982,77.08428,cake,truffle,2022,12,12,1,50,4
+12-12-2022,cake,strawberry,,500,gram,700,acc,,,,11.0545,77.04303,cake,strawberry,2022,12,12,1,50,4
+21-12-2022,cake,whiteforest,,500,gram,500,,,,,10.97642,77.02726,cake,whiteforest,2022,12,21,3,51,4
+24-12-2022,cake,chocolate,berries,500,gram,550,acc,,,,11.09138,77.14039,cake,chocolate,2022,12,24,6,51,4
+24-12-2022,cake,chocolate,,500,gram,550,acc,,,,11.06298,77.0323,cake,chocolate,2022,12,24,6,51,4
+24-04-2022,cake,chocolate,bundit,500,gram,650,acc,,,,11.02729,77.12569,cake,chocolate,2022,4,24,0,16,2
+22-10-2021,cake,redvelvet,,500,gram,850,acc,,,,,,cake,redvelvet,2021,10,22,5,42,4
+24-11-2021,cake,redvelvet,,500,gram,800,acc,,no,,,,cake,redvelvet,2021,11,24,3,47,4
+27-11-2022,cake,rosemilk,,500,gram,700,,,,,,,cake,rosemilk,2022,11,27,0,47,4
+09-08-2022,cake,truffle,,500,gram,500,cash,,,,,,cake,truffle,2022,8,9,2,32,3
+30-01-2021,cake,fusionberries,whiteangel,500,gram,700,acc,,yes,50,10.9928,77.0121,cake,fussion berry,2021,1,30,6,4,1
+30-01-2021,cake,mango,,500,gram,400,acc,,yes,,11.04638,77.05597,cake,mango,2021,1,30,6,4,1
+23-03-2022,cake,whiteforest,,500,gram,500,acc,,no,,,,cake,whiteforest,2022,3,23,3,12,1
+24-03-2022,cake,strawberry,anniversary rose cake,500,gram,750,acc,,,,11.07329,77.06972,cake,strawberry,2022,3,24,4,12,1
+26-03-2022,cake,kesarbadam,,500,gram,650,cash,,,,11.10515,77.17505,cake,kesarbadham,2022,3,26,6,12,1
+28-03-2022,cake,chocovanilla,musical theam,500,gram,700,acc,,,,11.03488,77.03382,cake,chocovanilla,2022,3,28,1,13,1
+30-03-2022,cake,butterscotch,beard theam,500,gram,650,acc,,,,11.08255,76.98786,cake,butterscotch,2022,3,30,3,13,1
+07-10-2022,cake,blackforest,,500,gram,450,acc,,,,11.07584,77.10219,cake,blackforest,2022,10,7,5,40,4
+15-07-2021,cake,blackforest,,500,gram,440,acc,,yes,,11.02357,77.01812,cake,blackforest,2021,7,15,4,28,3
+26-01-2021,cake,truffle,,500,gram,450,acc,,yes,80,11.0281432,76.9600533,cake,truffle,2021,1,26,2,4,1
+02-02-2021,cake,chocochip,,500,gram,480,acc,,yes,100,11.01483,77.20062,cake,chocochip,2021,2,2,2,5,1
+03-02-2021,cake,hazelnut,,500,gram,680,cash,,yes,,11.012,76.99812,cake,hazelnuts,2021,2,3,3,5,1
+31-12-2022,,chocomango,,1000,gram,500,acc,,,,,,,choco mango,2022,12,31,6,52,4
+09-07-2021,cake,fusionberries,,500,gram,550,acc,,yes,30,11.01195,76.99756,cake,fussionverries,2021,7,9,5,27,3
+24-04-2021,cake,truffle,,500,gram,500,acc,,yes,,11.01721,77.13413,cake,truffle,2021,4,24,6,16,2
+24-04-2021,cake,truffle,,500,gram,500,acc,,yes,,11.02598,77.0182,cake,truffle,2021,4,24,6,16,2
+09-01-2021,cake,chocolate,,500,gram,400,cash,,yes,,,,cake,chocolate,2021,1,9,6,1,1
+20-01-2021,cake,chocolate,with crown,500,gram,680,cash,,yes,,,,cake,chocolate,2021,1,20,3,3,1
+23-01-2021,cake,strawberry,,500,gram,400,acc,,no,,,,cake,straberry,2021,1,23,6,3,1
+01-01-2021,cake,chocolate,,500,gram,450,cash,,yes,,11.0729,77.10083,cake,chocolate,2021,1,1,5,53,1
+28-02-2022,cake,misc_&_combo,,500,gram,550,acc,,,,11.05634,77.01343,cake,Mocha cake,2022,2,28,1,9,1
+11-12-2022,cake,pineapple,,500,gram,500,acc,,,,,,cake,pine apple,2022,12,11,0,49,4
+04-04-2022,cake,truffle,,500,gram,550,acc,,,,11.00764,77.07148,cake,truffle,2022,4,4,1,14,2
+04-04-2022,cake,chocolate,baby love /bomb mould,500,gram,1600,acc,,,,10.99587,76.9378,cake,chocolate,2022,4,4,1,14,2
+05-04-2022,cake,chocolate,,500,gram,500,cash,,,,11.06657,77.08533,cake,chocolate,2022,4,5,2,14,2
+05-04-2022,cake,truffle,,500,gram,550,acc,,,,11.06749,77.05242,cake,truffle,2022,4,5,2,14,2
+13-04-2022,cake,truffle,baughter father,500,gram,650,acc,,,,11.05379,77.06303,cake,truffle,2022,4,13,3,15,2
+05-03-2022,cake,chocolate,,500,gram,600,acc,,,,11.01754,77.18423,cake,chocolate,2022,3,5,6,9,1
+05-03-2022,cake,chocolate,,500,gram,500,acc,,,,11.08664,77.13361,cake,chocolate,2022,3,5,6,9,1
+23-05-2021,cake,hazelnut,hearts,500,gram,850,cash,,no,,,,cake,hazelnuts,2021,5,23,0,20,2
+27-05-2021,cake,blackforest,,500,gram,450,acc,,no,,,,cake,blackforest,2021,5,27,4,21,2
+27-05-2021,cake,blueberry,,500,gram,400,cash,,no,,,,cake,Blueberry,2021,5,27,4,21,2
+12-02-2021,cake,chocolate,,500,gram,450,cash,,yes,,11.00581,77.13793,cake,chocolate,2021,2,12,5,6,1
+25-02-2021,cake,strawberry,,500,gram,450,cash,,yes,,11.00581,77.13793,cake,straberry,2021,2,25,4,8,1
+26-02-2021,cake,rose,,500,gram,500,,,yes,,11.07751,77.1244,cake,rose,2021,2,26,5,8,1
+26-02-2021,cake,pineapple,,500,gram,450,,,,,,,cake,pineapple,2021,2,26,5,8,1
+25-01-2022,cake,blackforest,,500,gram,580,acc,,yes,,11.0405,76.98951,cake,blackforest,2022,1,25,2,4,1
+13-11-2021,cake,truffle,,500,gram,500,acc,,,,11.0422,77.07766,cake,truffle,2021,11,13,6,45,4
+28-01-2022,cake,truffle,,500,gram,550,acc,,yes,,11.04893,77.10769,cake,truffle,2022,1,28,5,4,1
+01-02-2022,cake,chocochip,pink crown,500,gram,700,acc,,,,11.06016,76.98955,cake,chocochip,2022,2,1,2,5,1
+25-05-2022,cake,truffle,,500,gram,600,acc,,,,,,cake,truffle,2022,5,25,3,21,2
+01-02-2022,cake,chocolate,bomb cake,500,gram,1250,acc,,yes,,11.06473,77.04884,cake,chocolate,2022,2,1,2,5,1
+02-02-2022,cake,truffle,,500,gram,550,cash,,yes,,11.05256,77.07511,cake,truffle,2022,2,2,3,5,1
+03-02-2022,cake,chocochip,,500,gram,600,acc,,yes,,11.09649,77.15295,cake,chococochip,2022,2,3,4,5,1
+04-02-2022,cake,blackforest,,500,gram,500,cash,,yes,,10.94341,76.97596,cake,blackforest,2022,2,4,5,5,1
+05-02-2022,cake,rose,,500,gram,650,acc,,yes,,11.05604,77.04677,cake,rose,2022,2,5,6,5,1
+05-02-2022,cake,butterscotch,hearts,500,gram,600,acc,,yes,,10.97647,77.02728,cake,butterscotch,2022,2,5,6,5,1
+06-02-2022,cake,truffle,,500,gram,500,acc,,yes,,11.05256,77.07511,cake,truffle,2022,2,6,0,5,1
+27-12-2022,cake,,,500,gram,550,acc,,,,,,cake,,2022,12,27,2,52,4
+31-12-2022,fruit_cake,fruitcake,,500,gram,700,,,,,11.05001,77.06799,fruit cake,fruit cake,2022,12,31,6,52,4
+31-12-2022,,chocolate,,500,gram,500,acc,,,,11.02297,77.02093,,chocolate,2022,12,31,6,52,4
+31-12-2022,,truffle,,500,gram,550,cash,,,,,,,truffle,2022,12,31,6,52,4
+31-12-2022,cake,chocovanilla,,500,gram,550,cash,,,,11.03521,77.02395,cake,chocovanill,2022,12,31,6,52,4
+02-06-2021,cake,chocomango,,500,gram,500,acc,,no,,,,cake,chocomango,2021,6,2,3,22,2
+06-06-2021,cake,redvelvet,,500,gram,780,acc,,no,,,,cake,redvelvet,2021,6,6,0,22,2
+28-03-2022,cake,chocolate,,500,gram,530,cash,,,,,,cake,chocolate,2022,3,28,1,13,1
+08-06-2021,cake,chocolate,,500,gram,450,acc,,no,,,,cake,chocolate,2021,6,8,2,23,2
+27-05-2021,cake,mango,,500,gram,440,acc,,no,,,,cake,mango,2021,5,27,4,21,2
+12-03-2022,cake,chocolate,,500,gram,500,acc,,,,11.05314,77.0718,cake,chocolate,2022,3,12,6,10,1
+12-04-2022,cake,greenapple,velvet heart,500,gram,1200,acc,,,,11.07329,77.06972,cake,green apple,2022,4,12,2,15,2
+16-03-2022,cake,chocolate,Batman,500,gram,600,acc,,,,11.0611,76.98524,cake,chocolate,2022,3,16,3,11,1
+15-04-2021,cake,caramel,,500,gram,500,acc,,yes,,11.0542,77.02603,cake,caramel,2021,4,15,4,15,2
+29-10-2022,cake,strawberry,,500,gram,500,acc,,,,,,cake,strawberry,2022,10,29,6,43,4
+07-03-2022,cake,mango,mechanic theam,1000,gram,1500,acc,,,,11.06764,77.00018,cake,mango,2022,3,7,1,10,1
+12-06-2022,cake,chocolate,boss baby,1500,gram,1400,acc,,,,11.07224,77.12675,cake,chocolate,2022,6,12,0,23,2
+19-08-2022,cake,chocolate,heart shape,1500,gram,1500,cash,,,,11.07025,77.08523,cake,chocolate,2022,8,19,5,33,3
+05-11-2022,cake,,musical theam,1500,gram,2000,acc,,,,11.06002,77.08313,cake,,2022,11,5,6,44,4
+20-11-2022,cake,chocolate,play station,1500,gram,2300,acc,,,,11.04274,77.04445,cake,chocolate,2022,11,20,0,46,4
+26-12-2022,cake,chocolate,,1500,gram,1400,,,,,11.06495,77.0819,cake,chocolate,2022,12,26,1,52,4
+12-05-2021,cake,blackforest,,1500,gram,1200,cash,,yes,,11.08646,77.13692,cake,blackforest,2021,5,12,3,19,2
+11-01-2021,cake,chocolate,,1500,gram,1200,cash,,yes,,11.0503,77.15355,cake,chocolate,2021,1,11,1,2,1
+25-02-2021,cake,rose,,1500,gram,1450,acc,,yes,,11.0575,77.04451,cake,rose,2021,2,25,4,8,1
+27-02-2021,cake,strawberry,orange and white,1500,gram,1500,,,yes,,,,cake,straberry,2021,2,27,6,8,1
+28-02-2021,cake,fusionberries,,1500,gram,1700,,,yes,,11.0045,77.03344,cake,fussionberries,2021,2,28,0,8,1
+03-03-2021,cake,pineapple,blue barby,1500,gram,1700,acc,,no,,,,cake,pineapple,2021,3,3,3,9,1
+09-04-2021,cake,chocolate,,1500,gram,1300,,,yes,,11.05425,76.99439,cake,chocolate,2021,4,9,5,14,2
+12-01-2021,cake,misc_&_combo,,,,1000,acc,,yes,,11.04618,77.05139,cake,pinata,2021,1,12,2,2,1
+06-05-2021,cake,blackforest,elephant,1500,gram,1300,acc,,yes,,11.07122,77.08518,cake,blackforest,2021,5,6,4,18,2
+26-06-2021,cake,truffle,buttercream laptop,1500,gram,1900,acc,,,,,,cake,truffle,2021,6,26,6,25,2
+19-07-2021,cake,chocovanilla,,1500,gram,1400,acc,,yes,,11.04101,77.07749,cake,chocovanilla,2021,7,19,1,29,3
+22-07-2021,cake,chocovanilla,Disney princes,1500,gram,2500,acc,,yes,,11.03103,77.02779,cake,chocovanilla,2021,7,22,4,29,3
+24-07-2021,cake,fusionberries,,1500,gram,1850,acc,,yes,,,,cake,fussionverries,2021,7,24,6,29,3
+26-07-2021,cake,chocovanilla,,1500,gram,1500,cash,,no,,,,cake,chocovanilla,2021,7,26,1,30,3
+06-10-2021,cake,chocolate,puppy  cake,1500,gram,1800,acc,,yes,,11.01785,76.9942,cake,chocolate,2021,10,6,3,40,4
+27-05-2021,cake,blackforest,,1500,gram,1200,acc,,yes,,,,cake,blackforest,2021,5,27,4,21,2
+01-08-2021,cake,chocomango,,1500,gram,1400,acc,,yes,,11.06056,77.08579,cake,chocomango,2021,8,1,0,30,3
+08-08-2021,cake,whiteforest,,1500,gram,1000,cash,,no,,,,cake,whiteforest,2021,8,8,0,31,3
+03-09-2021,cake,truffle,under water world,1500,gram,2400,acc,,yes,,10.99153,77.00148,cake,truffle,2021,9,3,5,35,3
+16-09-2021,cake,truffle,elephant,1500,gram,1850,acc,,no,,,,cake,truffle,2021,9,16,4,37,3
+20-09-2021,cake,chocochip,cricket theam,1500,gram,1900,acc,,yes,,11.00776,77.04011,cake,chocochip,2021,9,20,1,38,3
+24-09-2021,cake,chocolate,cars,1500,gram,2200,acc,,yes,,11.0282,76.99418,cake,chocolate,2021,9,24,5,38,3
+16-10-2021,cake,blackforest,little singam,1500,gram,1400,acc,,,,,,cake,Black forest,2021,10,16,6,41,4
+19-10-2021,cake,chocovanilla,,1500,gram,1500,cash,,,,,,cake,chocovanilla,2021,10,19,2,42,4
+26-10-2021,cake,chocomango,pinkey cake,1500,gram,1400,acc,,,,,,cake,chocomango,2021,10,26,2,43,4
+09-02-2022,cake,chocolate,,500,gram,850,acc,,,,,,cake,chocolate,2022,2,9,3,6,1
+30-10-2021,cake,strawberry,barbie,1500,gram,1800,acc,,,,,,cake,strawberry,2021,10,30,6,43,4
+02-11-2021,cake,truffle,cricket,1500,gram,2000,acc,,,,11.00835,77.01335,cake,truffle,2021,11,2,2,44,4
+06-11-2021,cake,truffle,green colour wedding cake,1500,gram,2400,acc,,,,11.00632,77.06902,cake,truffle,2021,11,6,6,44,4
+07-11-2021,cake,chocochip,rose with fondant balls,1500,gram,2600,acc,,,,11.00061,77.08046,cake,chocochip,2021,11,7,0,44,4
+17-11-2021,cake,kesarbadam,,1500,gram,1800,cash,,,,11.01169,77.06516,cake,kesarbadham,2021,11,17,3,46,4
+20-11-2021,cake,butterscotch,blue ballls,1500,gram,1950,acc,,,,11.08997,77.17902,cake,butterscotch,2021,11,20,6,46,4
+26-11-2021,cake,chocochip,underwater,1500,gram,2200,acc,,,,11.06892,77.19225,cake,chocochip,2021,11,26,5,47,4
+15-12-2021,cake,chocolate,beriyani cake,1500,gram,2200,acc,,,,11.03281,76.99191,cake,chocolate,2021,12,15,3,50,4
+21-12-2021,cake,chocolate,,1500,gram,1500,acc,,,,,,cake,chocolate,2021,12,21,2,51,4
+24-12-2021,cake,chocolate,butterfly,1500,gram,2200,acc,,,,11.07287,77.02059,cake,chocolate,2021,12,24,5,51,4
+29-12-2021,cake,strawberry,,1500,gram,2300,acc,,,,11.03374,76.96899,cake,strawberry,2021,12,29,3,52,4
+31-12-2021,cake,rasmalai,,1500,gram,2200,acc,,,,11.04456,77.03764,cake,rasamalai,2021,12,31,5,52,4
+13-01-2022,cake,mango,,1500,gram,1450,acc,,yes,,11.08664,77.13361,cake,mango,2022,1,13,4,2,1
+14-01-2022,cake,truffle,,1500,gram,1500,acc,,yes,,11.09323,77.14684,cake,truffle,2022,1,14,5,2,1
+16-01-2022,cake,strawberry,unicorn cake,1500,gram,2700,acc,,yes,,10.9798,77.03887,cake,strawberry,2022,1,16,0,2,1
+08-02-2022,cake,strawberry,,1500,gram,1400,acc,,no,,,,cake,strawberry,2022,2,8,2,6,1
+08-02-2022,cake,pineapple,kings crown,1500,gram,,,,yes,,11.06876,77.18365,cake,pineapple,2022,2,8,2,6,1
+12-02-2022,cake,strawberry,,1500,gram,1400,cash,,no,,,,cake,strawberry,2022,2,12,6,6,1
+20-11-2022,cake,blueberry,white cake with baby breath,500,gram,900,acc,,,,,,cake,blueberry,2022,11,20,0,46,4
+13-02-2022,cake,pineapple,,1500,gram,1800,,,,,11.06359,77.09626,cake,pineapple,2022,2,13,0,6,1
+26-11-2022,cake,lotus_biscoff,,500,gram,800,acc,,,,,,cake,biscoff,2022,11,26,6,47,4
+19-04-2021,cake,truffle,,500,gram,500,acc,,yes,130,11.08139,76.88002,cake,truffle,2021,4,19,1,16,2
+14-11-2021,cake,truffle,,1500,gram,1500,acc,,,,,,cake,truffle,2021,11,14,0,45,4
+18-02-2022,cake,fusionberries,trdibar,1500,gram,2300,acc,,,,11.01973,77.01372,cake,fussionberries,2022,2,18,5,7,1
+20-02-2022,cake,strawberry,snow theam,1500,gram,2200,acc,,,,11.04878,76.99373,cake,strawberry,2022,2,20,0,7,1
+23-02-2022,cake,pineapple,Jungle theam,1500,gram,2400,acc,,,,11.10766,77.17698,cake,pine apple,2022,2,23,3,8,1
+20-04-2022,cake,strawberry,isomalt candies,1500,gram,1700,acc,,,,10.99636,77.01063,cake,strawberry,2022,4,20,3,16,2
+01-05-2022,cake,whiteforest,lipsticks,1500,gram,1800,acc,,,,11.02841,77.13327,cake,whiteforest,2022,5,1,0,17,2
+29-05-2022,cake,chocolate,JCB theam,1500,gram,1800,acc,,,,11.01899,77.2037,cake,chocolate,2022,5,29,0,21,2
+13-06-2022,cake,mango,1st pinkey baby,1500,gram,1700,acc,,,,11.02381,77.01974,cake,mango,2022,6,13,1,24,2
+23-07-2022,cake,truffle,cocoa melon,1500,gram,2200,acc,,,,11.08029,77.17883,cake,truffle,2022,7,23,6,29,3
+26-07-2022,cake,truffle,Masha and bear,1500,gram,2500,cash,,,,11.04763,77.04429,cake,truffle,2022,7,26,2,30,3
+16-08-2022,cake,chocovanilla,rocket,1500,gram,2100,acc,,,,11.00244,77.08226,cake,chocovanilla,2022,8,16,2,33,3
+20-08-2022,cake,caramelnuts,ship nanguram,1500,gram,2800,acc,,,,11.07804,77.0377,cake,caramel nuts,2022,8,20,6,33,3
+12-09-2022,cake,strawberry,,1500,gram,1400,acc,,,,11.06388,77.08159,cake,strawberry,2022,9,12,1,37,3
+16-09-2022,cake,strawberry,with crown,1500,gram,1780,cash,,,,11.09052,77.18728,cake,strawberry,2022,9,16,5,37,3
+30-09-2022,cake,strawberry,duckling 1st birthday,1500,gram,1200,acc,,,,11.05226,77.06058,cake,strawberry,2022,9,30,5,39,3
+01-10-2022,cake,snickers,Barby cake,1500,gram,2200,acc,,,,,,cake,Snickers,2022,10,1,6,39,4
+14-10-2022,cake,whiteforest,,1500,gram,1200,acc,,,,11.08672,77.13403,cake,whiteforest,2022,10,14,5,41,4
+15-10-2022,cake,truffle,KitKat cage cake,1500,gram,2200,acc,,,,11.01962,77.01426,cake,truffle,2022,10,15,6,41,4
+24-10-2022,cake,whiteforest,blue flowers,1500,gram,1600,acc,,,,11.07594,77.10138,cake,whiteforest,2022,10,24,1,43,4
+25-11-2022,cake,wholewheat,,1500,gram,1700,acc,,,,11.07812,77.19123,cake,whole wheat,2022,11,25,5,47,4
+08-12-2022,cake,pineapple,unicorn,1500,gram,1900,acc,,,,10.99031,76.93968,cake,pineapple,2022,12,8,4,49,4
+18-12-2022,cake,kesarbadam,panda,1500,gram,2000,cash,,,,11.06619,77.10984,cake,kesarbadham,2022,12,18,0,50,4
+25-04-2022,cake,pineapple,Barby,1500,gram,1750,acc,,,,11.05356,77.03974,cake,pine apple,2022,4,25,1,17,2
+01-01-2021,cake,chocolate,,1500,gram,1200,acc,,yes,,11.00992,77.07994,cake,chocolate,2021,1,1,5,53,1
+03-02-2021,cake,chocochip,,1500,gram,1500,cash,,yes,,11.10629,77.17485,cake,chocochip,2021,2,3,3,5,1
+26-02-2022,cake,truffle,heartshape,1500,gram,1500,acc,,,,11.05273,77.07298,cake,truffle,2022,2,26,6,8,1
+07-04-2022,cake,chocolate,heart shape,1500,gram,1450,acc,,no,,,,cake,chocolate,2022,4,7,4,14,2
+05-03-2022,cake,chocolate,yellow flower,1500,gram,2400,acc,,,,11.02244,77.03978,cake,chocolate,2022,3,5,6,9,1
+20-02-2021,cake,pineapple,rainbow and rainbowsprinkles,1500,gram,2100,acc,,yes,,11.04806,76.9939,cake,pineapple,2021,2,20,6,7,1
+01-02-2022,cake,hazelnut,ricapaper peach devine,1500,gram,2700,acc,,yes,,11.07805,77.03718,cake,haxenuts,2022,2,1,2,5,1
+13-03-2022,cake,chocolate,couple heart tree,1500,gram,1900,acc,,,,,,cake,chocolate,2022,3,13,0,10,1
+06-02-2021,cake,chocolate,carp car,1500,gram,2000,cash,,yes,,10.99674,76.981,cake,chocolate,2021,2,6,6,5,1
+16-05-2021,cake,pineapple,cars,1000,gram,1200,acc,,yes,,11.04088,77.079,cake,pineapple,2021,5,16,0,19,2
+20-05-2021,cake,truffle,,1000,gram,900,acc,,no,,,,cake,truffle,2021,5,20,4,20,2
+22-05-2021,cake,mango,,1000,gram,850,acc,,no,,,,cake,mango,2021,5,22,6,20,2
+23-05-2021,cake,chocomango,,1000,gram,900,acc,,no,,,,cake,chocomango,2021,5,23,0,20,2
+09-06-2021,misc_&_combo,pineapple,,1000,gram,,,,no,,,,cake & eclair,pineapple,2021,6,9,3,23,2
+11-06-2021,cake,mango,,1000,gram,850,acc,,no,,,,cake,mango,2021,6,11,5,23,2
+04-07-2021,cake,redvelvet,bike,1000,gram,1650,acc,,no,,,,cake,redvelvet,2021,7,4,0,26,3
+11-07-2021,cake,whiteforest,,1000,gram,900,acc,,no,,,,cake,whiteforest,2021,7,11,0,27,3
+11-07-2021,cake,blackforest,,1000,gram,820,acc,,yes,,11.07271,77.10661,cake,blackforest,2021,7,11,0,27,3
+13-07-2021,cake,truffle,,1000,gram,950,acc,,no,,,,cake,truffle,2021,7,13,2,28,3
+15-07-2021,cake,blueberry,,1000,gram,1300,acc,,,,,,cake,Blueberry,2021,7,15,4,28,3
+25-07-2021,cake,blackforest,,1000,gram,820,acc,,yes,,,,cake,blackforest,2021,7,25,0,29,3
+02-01-2021,cake,blackforest,,1000,gram,750,cash,,yes,,11.23513,76.98283,cake,blackforest,2021,1,2,6,53,1
+08-01-2021,cake,truffle,,1000,gram,950,cash,,yes,,11.04331,77.03747,cake,truffle,2021,1,8,5,1,1
+04-12-2022,cake,blackforest,,500,gram,450,acc,,,,,,cake,blackforest,2022,12,4,0,48,4
+08-01-2021,cake,chocolate,,1000,gram,800,cash,,no,,,,cake,chocolate,2021,1,8,5,1,1
+18-01-2021,cake,whiteforest,,1000,gram,850,cash,,yes,,10.9426534,76.9759219,cake,whiteforest,2021,1,18,1,3,1
+13-12-2022,cake,pineapple,cupcake shape,500,gram,700,acc,,,,,,caken,pineapple,2022,12,13,2,50,4
+18-03-2022,cake,blueberry,,500,gram,650,acc,,no,,,,cake,blueberry,2022,3,18,5,11,1
+20-01-2021,cake,chocolate,nemo,1000,gram,1500,cash,,yes,,11.02559,77.01738,cake,chocolate,2021,1,20,3,3,1
+02-02-2021,cake,truffle,,1000,gram,850,cash,,yes,,,,cake,truffle,2021,2,2,2,5,1
+02-02-2021,cake,blackforest,,1000,gram,850,cash,,yes,,11.1639,77.11705,cake,blackforest,2021,2,2,2,5,1
+05-02-2021,cake,truffle,brownie topper,1000,gram,1400,acc,,yes,,11.00907,77.02525,cake,truffle,2021,2,5,5,5,1
+05-02-2021,cake,whiteforest,,1000,gram,950,acc,,yes,,11.07805,77.03718,cake,whiteforest,2021,2,5,5,5,1
+06-02-2021,cake,truffle,withfruits,1000,gram,1500,acc,,yes,,11.05998,77.08324,cake,truffle,2021,2,6,6,5,1
+11-02-2021,cake,strawberry,,1000,gram,900,acc,,yes,,11.0478,77.04576,cake,straberry,2021,2,11,4,6,1
+11-02-2021,cake,truffle,,1000,gram,900,acc,,yes,,11.01799,77.13027,cake,truffle,2021,2,11,4,6,1
+13-02-2021,cake,chocolate,,1000,gram,850,cash,,,,11.06117,77.07608,cake,chocolate,2021,2,13,6,6,1
+14-02-2021,cake,fusionberries,,1000,gram,1100,cash,,,100,11.00057,76.99788,cake,fussionberries,2021,2,14,0,6,1
+16-02-2021,cake,hazelnut,,1000,gram,1300,cash,,yes,50,11.01706,76.98296,cake,hazelnuts,2021,2,16,2,7,1
+21-02-2021,cake,chocochip,anniversary,1000,gram,1400,cash,,yes,,11.0045,77.07931,cake,chocochip,2021,2,21,0,7,1
+21-02-2021,cake,whiteforest,rose,1000,gram,1300,,,yes,,11.0045,77.07931,cake,whiteforest,2021,2,21,0,7,1
+28-02-2021,cake,mango,boy or girl rose,1000,gram,1100,cash,,yes,,11.04228,77.04931,cake,mango,2021,2,28,0,8,1
+03-03-2021,cake,pineapple,,1000,gram,800,acc,,,,11.0162,77.01497,cake,pineapple,2021,3,3,3,9,1
+04-03-2021,cake,chocolate,,1000,gram,750,cash,,yes,,11.06046,77.0843,cake,chocolate,2021,3,4,4,9,1
+05-03-2021,cake,rasmalai,,1000,gram,1300,cash,,yes,,11.03466,77.02367,cake,rasamalai,2021,3,5,5,9,1
+06-03-2021,cake,mango,momtobe,1000,gram,1200,acc,,yes,,11.00902,77.06443,cake,mango,2021,3,6,6,9,1
+10-03-2021,cake,rose,,1000,gram,950,cash,,yes,,11.02586,77.01908,cake,rose,2021,3,10,3,10,1
+10-03-2021,cake,blackforest,,1000,gram,800,cash,,yes,,11.06067,77.08492,cake,blackforest,2021,3,10,3,10,1
+11-03-2021,cake,mango,sunny day cae,1000,gram,1400,cash,,yes,,11.0818,77.0272,cake,mango,2021,3,11,4,10,1
+11-03-2021,cake,pineapple,horse fiels,1000,gram,1600,cash,,yes,,11.03412,77.03312,cake,pineapple,2021,3,11,4,10,1
+21-03-2021,cake,mango,heartshape,1000,gram,850,cash,,yes,,11.05973,77.08304,cake,mango,2021,3,21,0,11,1
+10-11-2022,brownie,misc_&_combo,,6,pcs,,,,,,,,brownie,15pcs,2022,11,10,4,45,4
+07-04-2021,cake,mango,baby shower,1000,gram,1400,cash,,yes,,11.1409436,77.2314211,cake,mango,2021,4,7,3,14,2
+28-04-2021,cake,truffle,,1000,gram,900,acc,100,yes,,11.23292,77.31364,cake,truffle,2021,4,28,3,17,2
+06-05-2021,cake,chocolate,roseblossem,1000,gram,1250,acc,,yes,,11.03338,76.99127,cake,chocolate,2021,5,6,4,18,2
+09-05-2021,cake,blackforest,,1000,gram,750,cash,,,,,,cake,blackforest,2021,5,9,0,18,2
+15-05-2021,entremet,vanilla,,,,,,,yes,,,,entremet,vanilla,2021,5,15,6,19,2
+17-05-2021,cake,chocochip,tower cake,1000,gram,1400,acc,,yes,,11.00096,77.07904,cake,chocochip,2021,5,17,1,20,2
+18-05-2021,cake,chocolate,Netflix,1000,gram,1700,acc,,yes,,11.03005,77.16426,cake,chocolate,2021,5,18,2,20,2
+18-05-2021,cake,strawberry,,1000,gram,850,cash,,no,,,,cake,strawberry,2021,5,18,2,20,2
+20-05-2021,cake,mango,cricket,1000,gram,1200,acc,,yes,,11.04621,77.08166,cake,mango,2021,5,20,4,20,2
+22-05-2021,cake,truffle,chocolate themed,1000,gram,980,acc,,yes,,11.08305,77.12274,cake,truffle,2021,5,22,6,20,2
+23-05-2021,cake,blueberry,couple goals,1000,gram,1600,cash,,,,,,cake,Blueberry,2021,5,23,0,20,2
+11-06-2021,cake,chocomango,,1000,gram,950,acc,,no,,,,cake,chocomango,2021,6,11,5,23,2
+12-06-2021,cake,blueberry,,1000,gram,850,,,no,,,,cake,Blueberry,2021,6,12,6,23,2
+12-06-2021,cake,chocolate,,1000,gram,1200,acc,,no,,,,cake,chocolate,2021,6,12,6,23,2
+26-06-2021,cake,truffle,tom and jerry,1000,gram,1600,acc,,,,,,cake,truffle,2021,6,26,6,25,2
+29-06-2021,cake,mango,,1000,gram,900,acc,,,,,,cake,mango,2021,6,29,2,26,2
+02-07-2021,cake,strawberry,red heart,1000,gram,1000,acc,,no,,,,cake,strawberry,2021,7,2,5,26,3
+03-07-2021,cake,chocochip,,1000,gram,950,acc,,yes,,11.03045,77.02787,cake,chocochip,2021,7,3,6,26,3
+16-07-2021,cake,chocovanilla,,1000,gram,800,acc,,yes,,,,cake,chocovanilla,2021,7,16,5,28,3
+17-07-2021,cake,whiteforest,,1000,gram,900,cash,,yes,30,11.02097,76.97647,cake,whiteforest,2021,7,17,6,28,3
+20-07-2021,cake,truffle,,1000,gram,950,,,no,,,,cake,truffle,2021,7,20,2,29,3
+25-07-2021,cake,oreo,oreoes,1000,gram,1200,acc,,yes,,11.07218,77.12669,cake,oreo,2021,7,25,0,29,3
+27-07-2021,cake,redvelvet,,1000,gram,1600,acc,,yes,,,,cake,redvelvet,2021,7,27,2,30,3
+29-07-2021,cake,redvelvet,,1000,gram,1500,acc,,yes,,11.00908,77.07133,cake,redvelvet,2021,7,29,4,30,3
+01-08-2021,cake,strawberry,,1000,gram,900,acc,,yes,,11.01493,77.08666,cake,strawberry,2021,8,1,0,30,3
+05-08-2021,cake,strawberry,super mom,1000,gram,1300,acc,,yes,,10.97946,77.04073,cake,strawberry,2021,8,5,4,31,3
+15-08-2021,cake,mango,,1000,gram,850,acc,,yes,,,,cake,mango,2021,8,15,0,32,3
+16-08-2021,cake,chocovanilla,mickey,1000,gram,1050,acc,,,,,,cake,chocovanila,2021,8,16,1,33,3
+20-08-2021,cake,mango,,1000,gram,900,acc,,no,,,,cake,mango,2021,8,20,5,33,3
+23-08-2021,cake,kesarbadam,,1000,gram,1200,acc,,yes,,11.0454,77.03582,cake,kesarbadham,2021,8,23,1,34,3
+28-08-2021,cake,kesarbadam,,1000,gram,1200,cash,,yes,,,,cake,kesarbadham,2021,8,28,6,34,3
+29-08-2021,cake,strawberry,,1000,gram,1300,acc,,yes,,11.05685,77.02327,cake,strawberry,2021,8,29,0,34,3
+29-08-2021,cake,strawberry,,1000,gram,1200,acc,,yes,,11.05537,77.00168,cake,strawberry,2021,8,29,0,34,3
+31-08-2021,cake,hazelnut,,1000,gram,1500,acc,,yes,,11.08725,77.13241,cake,hazelnuts,2021,8,31,2,35,3
+01-09-2021,cake,whiteforest,Pink heart,1000,gram,1100,acc,,yes,,10.98289,77.0335,cake,whiteforest,2021,9,1,3,35,3
+14-09-2021,cake,truffle,rocher,1000,gram,1550,acc,,yes,,10.99263,77.13886,cake,truffle,2021,9,14,2,37,3
+17-08-2021,cake,chocochip,spiderman,1000,gram,1700,acc,,yes,,11.00168,77.08223,cake,chocochip,2021,8,17,2,33,3
+17-08-2021,cake,kesarbadam,,1000,gram,1200,acc,,yes,,11.07218,77.12669,cake,kesarbadham,2021,8,17,2,33,3
+18-08-2021,cake,whiterose,with rose and macarons,1000,gram,1440,acc,,yes,,11.05184,77.04349,cake,white rose,2021,8,18,3,33,3
+19-08-2021,cake,truffle,,1000,gram,950,acc,,no,,,,cake,truffle,2021,8,19,4,33,3
+20-08-2021,cake,chocolate,,1000,gram,950,acc,,yes,,11.03474,77.03059,cake,chocolate,2021,8,20,5,33,3
+21-08-2021,cake,greenapple,Ferrero rocher,1000,gram,1300,acc,,,,,,cake,green apple,2021,8,21,6,33,3
+21-08-2021,cake,mango,,1000,gram,1000,acc,,yes,,11.03448,77.03327,cake,mango,2021,8,21,6,33,3
+04-09-2021,cake,chocolate,aeroplain,1000,gram,1200,acc,,yes,,11.02503,77.01063,cake,chocolate,2021,9,4,6,35,3
+05-09-2021,cake,blueberry,blue pearls,1000,gram,1200,acc,,yes,,11.012,76.99812,cake,Blueberry,2021,9,5,0,35,3
+05-09-2021,cake,chocochip,,1000,gram,1000,acc,,yes,,11.06006,77.08375,cake,chocochip,2021,9,5,0,35,3
+06-09-2021,cake,whiteforest,,1000,gram,950,acc,,yes,,11.0108,77.0818,cake,whiteforest,2021,9,6,1,36,3
+08-09-2021,cake,chocolate,bridel,1000,gram,1350,acc,,yes,,11.01348,77.01165,cake,chocolate,2021,9,8,3,36,3
+13-09-2021,cake,chocovanilla,,1000,gram,900,acc,,yes,,11.06151,77.08273,cake,chocovanilla,2021,9,13,1,37,3
+15-09-2021,cake,truffle,coffemug,1000,gram,1500,acc,,yes,,11.05184,77.04349,cake,truffle,2021,9,15,3,37,3
+17-09-2021,cake,truffle,admk,1000,gram,1400,acc,,no,,,,cake,truffle,2021,9,17,5,37,3
+20-09-2021,cake,chocovanilla,,1000,gram,950,,,,,,,cake,chocovanilla,2021,9,20,1,38,3
+27-09-2021,cake,mango,,1000,gram,950,cash,,yes,,11.01794,77.12598,cake,mango,2021,9,27,1,39,3
+01-10-2021,cake,chocolate,wedding rose,1000,gram,1400,acc,300,yes,,11.03049,77.02777,cake,chocolate,2021,10,1,5,39,4
+07-10-2021,cake,rasmalai,,1000,gram,1400,acc,,yes,,10.99302,77.05862,cake,rasamalai,2021,10,7,4,40,4
+08-10-2021,cake,truffle,King crown,1000,gram,1300,acc,,yes,,11.01322,77.02398,cake,truffle,2021,10,8,5,40,4
+11-10-2021,cake,whiteforest,parent and kids,1000,gram,1200,acc,,yes,,10.97408,77.03774,cake,whiteforest,2021,10,11,1,41,4
+12-10-2021,cake,blueberry,pinkey Devine,1000,gram,1700,acc,,,,,,cake,Blueberry,2021,10,12,2,41,4
+15-10-2021,cake,hazelnut,,1000,gram,1300,acc,,,,,,cake,hazelnuts,2021,10,15,5,41,4
+16-10-2021,entremet,chocolate,,1000,gram,500,acc,,,,,,entremet,chocolate,2021,10,16,6,41,4
+17-10-2021,cake,strawberry,mermaid,1000,gram,1300,acc,,,,,,cake,strawberry,2021,10,17,0,41,4
+20-10-2021,cake,mango,best dad,1000,gram,1000,cash,,,,,,cake,mango,2021,10,20,3,42,4
+22-10-2021,cake,truffle,1st night,1000,gram,1500,acc,,,,,,cake,truffle,2021,10,22,5,42,4
+23-10-2021,cake,chocolate,rose cake,1000,gram,1150,acc,,,,,,cake,chocolate,2021,10,23,6,42,4
+24-10-2021,cake,redvelvet,,1000,gram,1600,acc,,,,,,cake,redvelvet,2021,10,24,0,42,4
+24-10-2021,cake,misc_&_combo,rose,1000,gram,1300,acc,,,,,,cake,coffee,2021,10,24,0,42,4
+26-10-2021,cake,butterscotch,,1000,gram,950,cash,,,,,,cake,butterscotch,2021,10,26,2,43,4
+28-10-2021,cake,chocolate,civil enginerin,1000,gram,1500,cash,,,,,,cake,chocolate,2021,10,28,4,43,4
+29-10-2021,cake,rasmalai,,1000,gram,1400,acc,,,,,,cake,rasamalai,2021,10,29,5,43,4
+30-10-2021,cake,mango,bunny,1000,gram,1308,acc,,,,,,cake,mango,2021,10,30,6,43,4
+30-10-2021,cake,blueberry,couple,1000,gram,1600,acc,,,,,,cake,blueberry,2021,10,30,6,43,4
+31-10-2021,cake,truffle,cagecake,1000,gram,1300,cash,,,,,,cake,truffle,2021,10,31,0,43,4
+01-11-2021,cake,whiteforest,minion,1000,gram,1500,acc,,,,11.00558,77.08164,cake,whiteforest,2021,11,1,1,44,4
+18-04-2022,cake,kesarbadam,,1000,gram,1300,acc,,,,,,cake,kesarbadham,2022,4,18,1,16,2
+07-08-2022,cake,truffle,Mickey mouse,1000,gram,1500,acc,,,,11.04772,77.04531,cake,truffle,2022,8,7,0,31,3
+03-11-2021,cake,greenapple,pinkdrip with rocher,1000,gram,1500,acc,,,,11.02503,77.07011,cake,greenapple,2021,11,3,3,44,4
+04-11-2021,entremet,strawberry,,1000,gram,1500,acc,,,,11.02066,76.99912,entremet,strawberry,2021,11,4,4,44,4
+06-11-2021,cake,chocochip,kitty,1000,gram,1700,acc,,,,11.03326,77.06315,cake,chocochip,2021,11,6,6,44,4
+15-02-2021,cake,fusionberries,,1000,gram,1100,,,,,11.01184,77.0515,cake,fusionberry,2021,2,15,1,7,1
+09-11-2021,cake,pineapple,rose cake,1000,gram,2000,,,,,11.05089,77.05692,cake,pineapple,2021,11,9,2,45,4
+09-11-2021,cake,chocolate,KitKat,1000,gram,1500,acc,,,,11.05089,77.05692,cake,chocolate,2021,11,9,2,45,4
+13-11-2021,cake,chocochip,pinkey flowers,1000,gram,1790,acc,,,,11.03932,76.94183,cake,chocochip,2021,11,13,6,45,4
+18-11-2021,cake,fusionberries,Blue false line,1000,gram,1400,acc,,,,11.06672,77.00148,cake,fussionberries,2021,11,18,4,46,4
+23-11-2021,cake,rasmalai,,1000,gram,1400,,,,,11.0652,77.0288,cake,rasamalai,2021,11,23,2,47,4
+23-11-2021,cake,rasmalai,,1000,gram,1550,acc,,,,11.00103,76.96153,cake,rasamalai,2021,11,23,2,47,4
+25-11-2021,cake,blueberry,flowers,1000,gram,1750,acc,,,,11.01271,76.99315,cake,blueberry,2021,11,25,4,47,4
+27-11-2021,cake,chocomango,pink crown,1000,gram,1300,acc,,,,11.0678,77.06601,cake,chocomango,2021,11,27,6,47,4
+27-11-2021,cake,pineapple,royal blue,1000,gram,1500,acc,,,,11.07805,77.03718,cake,pineapple,2021,11,27,6,47,4
+28-11-2021,cake,truffle,white square with stars,1000,gram,1650,acc,,,,11.01898,77.04845,cake,truffle,2021,11,28,0,47,4
+29-11-2021,cake,pineapple,phanda,1000,gram,1300,acc,,,,11.03567,77.03278,cake,pine apple,2021,11,29,1,48,4
+30-11-2021,cake,mango,100days,1000,gram,1200,cash,,,,11.08664,77.13361,cake,mango,2021,11,30,2,48,4
+01-12-2021,cake,butterscotch,blue hearts,1000,gram,1400,acc,,yes,,11.06511,77.04811,cake,butterscotch,2021,12,1,3,48,4
+06-12-2021,cake,blueberry,books,1000,gram,1800,acc,,yes,,11.0422,77.07766,cake,blueberry,2021,12,6,1,49,4
+07-12-2021,cake,whiteforest,minion,1000,gram,1500,acc,,yes,,,,cake,whiteforest,2021,12,7,2,49,4
+11-12-2021,cake,kesarbadam,JCB thema,1000,gram,1900,acc,,yes,,13.05265,80.19578,cake,kesarbadham,2021,12,11,6,49,4
+12-12-2021,cake,truffle,avenders,1000,gram,1500,acc,,yes,,,,cake,truffle,2021,12,12,0,49,4
+12-12-2021,cake,chocolate,naked,1000,gram,1150,acc,,yes,,11.01788,76.98441,cake,chocolate,2021,12,12,0,49,4
+13-12-2021,cake,kesarbadam,,1000,gram,1300,acc,,no,,,,cake,kesarbadham,2021,12,13,1,50,4
+14-12-2021,cake,truffle,,1000,gram,1000,acc,,yes,,11.07396,77.00697,cake,truffle,2021,12,14,2,50,4
+14-12-2021,cake,chocochip,baby halfmonth boy with moon,1000,gram,1500,acc,,no,,,,cake,chocochip,2021,12,14,2,50,4
+19-12-2021,cake,pineapple,,1000,gram,900,acc,,,,11.06886,77.10917,cake,pineapple,2021,12,19,0,50,4
+22-12-2021,cake,blueberry,half baby,1000,gram,1600,acc,,,,,,cake,blueberry,2021,12,22,3,51,4
+05-08-2022,cake,chocolate,,1000,gram,900,acc,,,,,,cake,Chocolate,2022,8,5,5,31,3
+28-12-2021,cake,blueberry,,1000,gram,1200,cash,,yes,,11.05393,77.04009,cake,blueberry,2021,12,28,2,52,4
+31-12-2021,cake,chocolate,,1000,gram,950,acc,,,,11.04605,77.0512,cake,chocolate,2021,12,31,5,52,4
+01-01-2022,cake,chocolate,jeep topper,1000,gram,1500,cash,,yes,,11.02622,77.01611,cake,chocolate,2022,1,1,6,52,1
+07-01-2022,cake,chocochip,makeupkit,1000,gram,1400,acc,,yes,,11.0688,77.11262,cake,chocochip,2022,1,7,5,1,1
+10-01-2022,cake,chocochip,panda,1000,gram,1800,acc,,yes,,11.05604,77.04677,cake,chocochip,2022,1,10,1,2,1
+08-02-2021,misc_&_combo,chocolate,,,,,,,,,,,shew pastry,chocolate,2021,2,8,1,6,1
+11-01-2022,cake,strawberry,gadgets theam,1000,gram,1000,cash,,no,,,,cake,strawberry,2022,1,11,2,2,1
+11-01-2022,cake,blueberry,,1000,gram,1200,acc,,yes,,11.09483,77.04493,cake,blueberry,2022,1,11,2,2,1
+12-01-2022,cake,lotus_biscoff,golden crown,1000,gram,1800,acc,50,yes,,11.09139,77.1777,cake,lotusbiscoff,2022,1,12,3,2,1
+16-01-2022,cake,truffle,,1000,gram,1100,acc,,no,,,,cake,truffle,2022,1,16,0,2,1
+02-09-2021,cake,fusionberries,,1000,gram,1200,acc,,no,,,,cake,fussionberries,2021,9,2,4,35,3
+19-01-2022,cake,truffle,blue theam,1000,gram,1500,acc,,yes,,11.0897,77.11892,cake,truffle,2022,1,19,3,3,1
+22-01-2022,cake,truffle,,1000,gram,1050,acc,,yes,,11.05717,77.05082,cake,truffle,2022,1,22,6,3,1
+24-01-2022,cake,pineapple,,1000,gram,950,cash,,no,,,,cake,pine apple,2022,1,24,1,4,1
+08-02-2022,cake,truffle,super mom,1000,gram,1600,acc,,yes,,11.02856,76.94379,cake,truffle,2022,2,8,2,6,1
+10-02-2022,cake,butterscotch,,1000,gram,950,acc,,,,11.09353,77.12055,cake,butterscotch,2022,2,10,4,6,1
+10-02-2022,cake,butterscotch,Barby doll,1000,gram,1500,acc,,,,11.09353,77.12055,cake,buttercmscotch,2022,2,10,4,6,1
+12-02-2022,cake,caramel,butter finish,1000,gram,1300,acc,,,,11.09139,77.1777,cake,caramel,2022,2,12,6,6,1
+12-02-2022,cake,chocolate,country sugar,1000,gram,1000,acc,,no,,,,cake,chocolate,2022,2,12,6,6,1
+12-02-2022,cake,greenapple,,1000,gram,950,acc,,yes,,11.06876,77.18365,cake,green apple,2022,2,12,6,6,1
+13-02-2022,cake,truffle,Whale cake,1000,gram,1600,acc,,,,11.03714,77.03677,cake,truffle,2022,2,13,0,6,1
+24-09-2021,cake,chocolate,,1000,gram,900,cash,,yes,,,,cake,chocolate,2021,9,24,5,38,3
+14-02-2022,cake,pineapple,wedding cake with redand white flowers,1000,gram,2200,acc,,,,11.00226,76.97972,cake,pine apple,2022,2,14,1,7,1
+16-02-2022,cake,butterscotch,anniversary,1000,gram,1600,acc,,,,11.10244,77.1738,cake,butterscotch,2022,2,16,3,7,1
+16-02-2022,cake,kesarbadam,,1000,gram,1300,acc,,no,,,,cake,kesarbadham,2022,2,16,3,7,1
+22-02-2022,cake,pineapple,,1000,gram,950,acc,,no,,,,cake,pineapple,2022,2,22,2,8,1
+23-02-2022,cake,chocolate,MasterChef,1000,gram,1500,acc,,,,11.01788,76.98441,cake,chocolate,2022,2,23,3,8,1
+25-02-2022,cake,rasmalai,,1000,gram,1500,acc,,,,11.05456,77.06717,cake,rasamalai,2022,2,25,5,8,1
+14-04-2022,cake,truffle,,1000,gram,1000,acc,,,,11.01736,76.98304,cake,truffle,2022,4,14,4,15,2
+19-04-2022,cake,truffle,with Teddy yellow,1000,gram,1400,acc,,,,11.07495,77.00216,cake,truffle,2022,4,19,2,16,2
+22-04-2022,cake,chocolate,isomalt candies pink,1000,gram,1200,acc,,,,,,cake,chocolate,2022,4,22,5,16,2
+02-05-2022,cake,butterscotch,daughter and father theam,1000,gram,1100,acc,,,,11.08138,77.03511,cake,butterscotch,2022,5,2,1,18,2
+09-05-2022,cake,truffle,,1000,gram,,,,,,11.07271,77.10661,cake,truffle,2022,5,9,1,19,2
+09-05-2022,cake,kesarbadam,,1000,gram,1300,,,,,11.07271,77.10661,cake,kesarbadham,2022,5,9,1,19,2
+11-05-2022,cake,truffle,yellow,1000,gram,1200,acc,,,,11.05599,77.06142,cake,truffle,2022,5,11,3,19,2
+12-05-2022,cake,truffle,KitKat golden,1000,gram,1900,acc,,,,11.05822,77.03801,cake,truffle,2022,5,12,4,19,2
+15-05-2022,cake,chocochunk,blue square cake with fondant,1000,gram,1900,acc,,,,11.00896,77.07869,cake,chocochunk,2022,5,15,0,19,2
+18-05-2022,cake,rasmalai,blue crown,1000,gram,1850,cash,,,,11.07517,77.10469,cake,rasamalai,2022,5,18,3,20,2
+18-05-2022,cake,chocolate,teddy,1000,gram,1350,acc,,,,11.06014,76.98908,cake,chocolate,2022,5,18,3,20,2
+22-05-2022,cake,misc_&_combo,,1000,gram,1400,acc,,,,11.07016,77.12767,cake,gulabjamun,2022,5,22,0,20,2
+23-05-2022,cake,chocomango,orange ricepaper,1000,gram,2000,acc,,,,11.09139,77.1777,cake,choco mango,2022,5,23,1,21,2
+27-05-2022,cake,strawberry,icecream cone and m&mchocolate,1000,gram,1200,acc,,,,10.9863,77.0621,cake,strawberry,2022,5,27,5,21,2
+30-05-2022,cake,chocolate,KitKat jungle cake,1000,gram,1900,acc,,,,11.01597,76.98421,cake,chocolate,2022,5,30,1,22,2
+01-06-2022,cake,whiteforest,,1000,gram,950,,,,,10.97651,77.02709,cake,whiteforest,2022,6,1,3,22,2
+04-06-2022,cake,chocolate,whini pooh,1000,gram,1300,acc,,,,11.06014,76.98908,cake,chocolate,2022,6,4,6,22,2
+05-06-2022,cake,chocolate,anniversary,1000,gram,1300,acc,,,,11.05438,77.02273,cake,chocolate,2022,6,5,0,22,2
+07-06-2022,cookie,chocochip,,1000,gram,500,,,no,,,,cookies,chocochip,2022,6,7,2,23,2
+07-06-2022,cake,truffle,,1000,gram,1000,acc,,,,11.05288,76.99543,cake,truffle,2022,6,7,2,23,2
+08-06-2022,cake,snickers,,1000,gram,1500,acc,,,,11.05034,77.01165,cake,Snickers,2022,6,8,3,23,2
+11-06-2022,cake,chocovanilla,,1000,gram,1000,acc,,no,,,,cake,chocovanilla,2022,6,11,6,23,2
+26-05-2021,cake,chocolate,,500,gram,500,cash,,no,,,,cake,chocolate,2021,5,26,3,21,2
+11-06-2022,cake,strawberry,rainbow cake with flowers,1000,gram,1200,acc,,,,11.04533,77.00097,cake,strawberry,2022,6,11,6,23,2
+15-06-2022,cake,rasmalai,,1000,gram,1500,acc,,,,11.05794,77.00538,cake,rasamalai,2022,6,15,3,24,2
+16-06-2022,cake,mango,,1000,gram,1000,cash,,,,11.10515,77.17505,cake,mango,2022,6,16,4,24,2
+16-06-2022,cake,kesarbadam,,1000,gram,1400,acc,,,,11.07618,76.99778,cake,kesarbadham,2022,6,16,4,24,2
+25-06-2022,cake,whiterose,family cake,1000,gram,1300,cash,,,,11.05585,77.03888,cake,white rose,2022,6,25,6,25,2
+27-06-2022,cake,pineapple,whinnepooh with chicken,1000,gram,1400,acc,,,,11.06773,77.00065,cake,pineapple,2022,6,27,1,26,2
+27-06-2022,cake,lotus_biscoff,Krishna,1000,gram,1450,acc,,,,11.06922,77.06654,cake,biscoff,2022,6,27,1,26,2
+27-06-2022,cake,strawberry,,1000,gram,950,acc,,,,11.06951,77.1088,cake,strawberry,2022,6,27,1,26,2
+29-06-2022,cake,caramelnuts,jungle theam,1000,gram,1500,acc,,,,10.98624,77.06067,cake,caramel nuts,2022,6,29,3,26,2
+30-06-2022,cake,hazelnut,unicorn,1000,gram,1600,acc,,,,11.05288,76.99543,cake,hazelnuts,2022,6,30,4,26,2
+03-07-2022,cake,whiteforest,ben10,1000,gram,1100,,,,,10.97651,77.02709,cake,whiteforest,2022,7,3,0,26,3
+04-07-2022,cake,greenapple,,1000,gram,1050,acc,,,,11.06666,77.04657,cake,green apple,2022,7,4,1,27,3
+06-07-2022,cake,rasmalai,,1000,gram,1500,acc,,,,10.9856,77.05682,cake,rasamalai,2022,7,6,3,27,3
+08-07-2022,cake,lotus_biscoff,,1000,gram,1450,cash,,,,11.03482,77.01447,cake,lotusbiscoff,2022,7,8,5,27,3
+14-07-2022,cake,rasmalai,,1000,gram,,,,,,,,cake,rasamalai,2022,7,14,4,28,3
+18-07-2022,cake,pineapple,,1000,gram,1030,cash,,,,11.10184,77.17669,cake,pineapple,2022,7,18,1,29,3
+25-07-2022,cake,chocolate,Barby blue,1000,gram,1300,acc,,,,11.07018,77.12734,cake,chocolate,2022,7,25,1,30,3
+20-10-2022,cake,hazelnut,,500,gram,700,cash,,,,,,cake,hazelnuts,2022,10,20,4,42,4
+03-08-2022,cake,chocolate,penguin,1000,gram,2000,acc,,,,11.07784,77.03646,cake,chocolate,2022,8,3,3,31,3
+29-07-2022,cake,truffle,iron man,1000,gram,1300,acc,,,,11.00847,77.0709,cake,truffle,2022,7,29,5,30,3
+17-08-2022,cake,mango,makeupkit,1000,gram,1500,acc,,,,,,cake,mango,2022,8,17,3,33,3
+18-08-2022,cake,truffle,,1000,gram,1000,acc,,,,,,cake,truffle,2022,8,18,4,33,3
+28-08-2022,cake,rosemilk,,1000,gram,1200,,,,,,,cake,rosemilk,2022,8,28,0,34,3
+31-08-2022,cake,chocochunk,roll ice cream,1000,gram,1600,acc,,,,11.05823,77.07801,cake,chocochunk,2022,8,31,3,35,3
+31-08-2022,cake,truffle,,1000,gram,1400,acc,,,,11.08594,77.1343,cake,truffle,2022,8,31,3,35,3
+05-09-2022,cake,truffle,beriyani,1000,gram,1500,acc,,,,11.01342,77.13357,cake,truffle,2022,9,5,1,36,3
+05-09-2022,cake,chocolate,chocolate cage cake,1000,gram,1200,acc,,,,11.01342,77.13357,cake,Chocolate,2022,9,5,1,36,3
+09-09-2022,cake,chocochunk,anniversary,1000,gram,1200,acc,,,,11.00198,77.07892,cake,chocochunk,2022,9,9,5,36,3
+10-09-2022,cake,truffle,,1000,gram,1100,acc,,,,11.06115,77.08374,cake,truffle,2022,9,10,6,36,3
+12-09-2022,cake,strawberry,Frozen elsa,1000,gram,1500,acc,,,,11.06809,76.99948,cake,strawberry,2022,9,12,1,37,3
+15-09-2022,cake,rosemilk,,1000,gram,1200,acc,,,,11.0567,77.04674,cake,rosemilk,2022,9,15,4,37,3
+01-10-2022,cake,chocolate,redrose with photo print topper,1000,gram,1600,acc,,,,10.99512,77.01432,cake,chocolate,2022,10,1,6,39,4
+12-06-2022,cake,mango,cocomelon,1000,gram,1400,acc,,,,,,cake,mango,2022,6,12,0,23,2
+31-05-2021,cake,blackforest,,500,gram,400,acc,,no,,,,cake,blackforest,2021,5,31,1,22,2
+02-06-2021,cake,fusionberries,,500,gram,650,acc,,no,,,,cake,fussionberries,2021,6,2,3,22,2
+01-10-2022,cake,whiteforest,,1000,gram,900,acc,,,,11.06149,77.0871,cake,whiteforest,2022,10,1,6,39,4
+16-09-2022,cake,lotus_biscoff,,1000,gram,1400,acc,,,,11.05631,77.06245,cake,lotusbiscoff,2022,9,16,5,37,3
+07-10-2022,cake,mango,,1000,gram,900,acc,,,,11.06496,77.10584,cake,mango,2022,10,7,5,40,4
+14-10-2022,cake,truffle,,1000,gram,900,cash,,,,,,cake,truffle,2022,10,14,5,41,4
+17-10-2022,cake,rosemilk,Barbie,1000,gram,1600,acc,,,,11.08475,77.03468,cake,rosemilk,2022,10,17,1,42,4
+18-10-2022,cake,strawberry,,1000,gram,950,,,,,11.0642,77.10582,cake,strawberry,2022,10,18,2,42,4
+19-10-2022,cake,butterscotch,,1000,gram,1000,acc,,,,11.02521,77.06031,cake,butterscotch,2022,10,19,3,42,4
+23-10-2022,cake,,voliball,1000,gram,1200,acc,,,,,,cake,,2022,10,23,0,42,4
+24-10-2022,cake,chocolate,redleart,1000,gram,1500,acc,,,,11.00121,77.00893,cake,chocolate,2022,10,24,1,43,4
+25-10-2022,cake,chocolate,6month baby cake,1000,gram,1400,acc,,,,11.01665,77.13308,cake,chocolate,2022,10,25,2,43,4
+01-11-2022,cake,greenapple,,1000,gram,950,,,,,11.06472,77.10556,caken,green apple,2022,11,1,2,44,4
+04-11-2022,cake,,jungle theam,1000,gram,1500,acc,,,,,,cake,,2022,11,4,5,44,4
+07-11-2022,cake,mango,velvet heart,1000,gram,1500,acc,,,,11.06118,77.08609,cake,mango,2022,11,7,1,45,4
+08-11-2022,cake,blackforest,,1000,gram,850,acc,,,,11.06397,77.08163,cake,blackforest,2022,11,8,2,45,4
+09-11-2022,,chocomango,,1000,gram,1000,cash,,,,11.0484,77.12139,,chocomango,2022,11,9,3,45,4
+09-11-2022,,whiteforest,,1000,gram,900,,,,,11.0609,77.0826,,whiteforest,2022,11,9,3,45,4
+10-11-2022,cake,blackforest,anniversary photoprint,1000,gram,1000,cash,,,,11.04697,77.08186,cake,blackforest,2022,11,10,4,45,4
+16-11-2022,cake,misc_&_combo,mom to be,1000,gram,1400,acc,,,,11.0639,77.08156,cake,wholewheat chocolate,2022,11,16,3,46,4
+19-11-2022,cake,truffle,,1000,gram,1000,acc,,,,11.03314,77.14833,cake,truffle,2022,11,19,6,46,4
+19-11-2022,cake,whiteforest,elephant cake,1000,gram,1200,acc,,,,11.01706,76.98327,cake,whiteforest,2022,11,19,6,46,4
+20-11-2022,cake,hazelnut,,1000,gram,1500,acc,,,,,,cake,hazelnuts,2022,11,20,0,46,4
+21-11-2022,cake,rosemilk,,1000,gram,1300,acc,,,,11.04496,76.97428,cake,rosemilk,2022,11,21,1,47,4
+27-11-2022,cake,blueberry,teddy bear family,1000,gram,1400,acc,,,,11.07815,77.03745,cake,blueberry,2022,11,27,0,47,4
+30-11-2022,cake,strawberry,Mickey mouse,1000,gram,1300,cash,,,,11.08168,77.03524,cake,strawberry,2022,11,30,3,48,4
+07-12-2022,cake,chocolate,pink girl cake,1000,gram,1600,cash,,,,11.05972,77.07955,cake,chocolate,2022,12,7,3,49,4
+07-12-2022,cake,chocomango,,1000,gram,1000,acc,,,,11.06304,77.08253,cake,chocomango,2022,12,7,3,49,4
+07-12-2022,cake,misc_&_combo,,1000,gram,1000,,,,,11.06442,77.10618,cake,tiramesu,2022,12,7,3,49,4
+09-12-2022,cake,truffle,,1000,gram,1400,cash,,,,11.10226,77.17806,cake,truffle,2022,12,9,5,49,4
+12-12-2022,cake,strawberry,,1000,gram,950,acc,,,,11.0639,77.08156,cake,strawberry,2022,12,12,1,50,4
+20-12-2022,cake,truffle,,1000,gram,1000,cash,,,,11.06396,77.0817,cake,truffle,2022,12,20,2,51,4
+24-12-2022,misc_&_combo,,,1000,gram,1400,acc,,,,10.982987,76.99679,chocolate fudge cake,,2022,12,24,6,51,4
+08-05-2021,cake,blackforest,,1000,gram,780,acc,,,,,,cake,blackforest,2021,5,8,6,18,2
+12-02-2021,cake,chocomango,,1000,gram,900,,,,,,,cake,chocomango,2021,2,12,5,6,1
+13-12-2022,cake,chocolate,,1000,gram,1000,acc,,,,,,cake,chocolate,2022,12,13,2,50,4
+11-02-2022,cake,chocolate,,1000,gram,1100,acc,,,,,,cake,chocolate,2022,2,11,5,6,1
+10-06-2022,cake,pineapple,,1000,gram,900,,,no,,,,cake,pineapple,2022,6,10,5,23,2
+15-08-2022,cake,lotus_biscoff,,1000,gram,1200,,,,,,,cake,biscoff,2022,8,15,1,33,3
+24-10-2021,cake,lotus_biscoff,,1000,gram,1400,,,,,,,cake,lotus,2021,10,24,0,42,4
+01-10-2022,cake,rasmalai,,1000,gram,1500,acc,,,,,,cake,rasamalai,2022,10,1,6,39,4
+02-03-2022,cake,lotus_biscoff,,1000,gram,1400,acc,,no,,,,cake,lotusbiscoff,2022,3,2,3,9,1
+19-03-2022,cake,chocolate,jungle theam,1000,gram,1700,acc,,,,10.93619,76.9996,cake,chocolate,2022,3,19,6,11,1
+22-03-2022,cake,snickers,blue and white,1000,gram,1900,acc,,,,11.00877,77.07852,cake,Snickers,2022,3,22,2,12,1
+28-03-2022,cake,chocolate,silver white fondant,1000,gram,,,,,,,,cake,chocolate,2022,3,28,1,13,1
+30-03-2022,cake,truffle,,1000,gram,1000,,,,,11.06985,77.10856,cake,truffle,2022,3,30,3,13,1
+04-05-2022,cake,rosemilk,chinshan,1500,gram,1900,acc,,,,,,cake,rosemilk,2022,5,4,3,18,2
+09-06-2022,cake,truffle,shinchan,1500,gram,1800,acc,,,,,,cake,truffle,2022,6,9,4,23,2
+27-01-2021,cake,chocolate,tower,1000,gram,950,acc,,no,,,,cake,chocolate,2021,1,27,3,4,1
+07-02-2021,cake,strawberry,,1000,gram,800,cash,,yes,,11.017,77.12553,cake,straberry,2021,2,7,0,5,1
+18-04-2021,cake,oreo,doctor themed,1000,gram,1700,acc,,yes,,11.01774,76.98339,cake,oreo,2021,4,18,0,15,2
+19-04-2021,cake,strawberry,donuts,1000,gram,1300,cash,,yes,,11.07293,77.08395,cake,straberry,2021,4,19,1,16,2
+24-04-2021,cake,chocolate,half completed cake blue with macarons,1000,gram,1595,acc,,yes,200,11.00488,77.27593,cake,chocolate,2021,4,24,6,16,2
+24-04-2021,cake,whiteforest,couple cake,1000,gram,1350,acc,,yes,,11.0661,76.98779,cake,whiteforst,2021,4,24,6,16,2
+26-04-2021,cake,pineapple,half colour cake,1000,gram,1400,acc,250,yes,,10.98985,77.27976,cake,pine apple,2021,4,26,1,17,2
+03-01-2021,cake,chocochip,gem topper,1000,gram,1200,acc,,no,,,,cake,chocochip,2021,1,3,0,53,1
+30-07-2021,cake,chocovanilla,Pink drip,1000,gram,1200,acc,,yes,50,11.0337053,76.9689522,cake,chocovanilla,2021,7,30,5,30,3
+30-07-2021,cake,blackforest,,1000,gram,800,cash,,no,,,,cake,blackforest,2021,7,30,5,30,3
+26-02-2022,cake,truffle,square,1000,gram,1000,acc,,,,11.05634,77.01343,cake,truffle,2022,2,26,6,8,1
+26-02-2022,cake,kesarbadam,,1000,gram,1300,acc,,,,,,cake,kesarbadham,2022,2,26,6,8,1
+26-02-2022,cake,kesarbadam,,1000,gram,1300,acc,,no,,,,cake,kesarbadham,2022,2,26,6,8,1
+01-04-2022,cake,chocolate,,1000,gram,990,acc,,,,11.00259,77.03909,cake,chocolate,2022,4,1,5,13,2
+11-04-2022,cake,pineapple,,1000,gram,950,acc,,,,11.07146,77.10528,cake,pine apple,2022,4,11,1,15,2
+13-04-2022,cake,rasmalai,,1000,gram,1500,acc,,,,11.08577,77.13196,cake,rasamalai,2022,4,13,3,15,2
+05-03-2022,cake,mango,pink and gray with flower,1000,gram,1700,acc,,,,11.01781,77.2022,cake,mango,2022,3,5,6,9,1
+06-03-2022,cake,pineapple,6month yellow,1000,gram,1200,acc,,,,11.08664,77.13361,cake,pineapple,2022,3,6,0,9,1
+07-03-2022,cake,chocolate,,1000,gram,950,acc,,no,,,,cake,chocolate,2022,3,7,1,10,1
+07-03-2022,cake,chocolate,violet hearts,1000,gram,1500,acc,,,,11.05534,77.06552,cake,chocolate,2022,3,7,1,10,1
+09-03-2022,cake,chocolate,blue cake,1000,gram,1500,acc,,,,11.05077,77.1272,cake,chocolate,2022,3,9,3,10,1
+24-05-2021,cake,whiteforest,,1000,gram,859,acc,,no,,,,cake,whiteforest,2021,5,24,1,21,2
+25-05-2021,cake,redvelvet,,1000,gram,1400,acc,,,,,,cake,redvelvet,2021,5,25,2,21,2
+23-06-2022,cake,chocolate,saree drapting,1000,gram,1700,acc,,,,11.1088,77.03054,cake,chocolate,2022,6,23,4,25,2
+22-02-2021,cake,chocolate,kitkat gold,1000,gram,1600,acc,,yes,,,,cake,chocolate,2021,2,22,1,8,1
+22-02-2021,cake,chocolate,,1000,gram,850,acc,,yes,,11.07418,77.10331,cake,chocolate,2021,2,22,1,8,1
+28-01-2022,cake,mango,,1000,gram,900,cash,,no,,,,cake,mango,2022,1,28,5,4,1
+30-01-2022,cake,whiteforest,,1000,gram,1300,acc,,,,,,cake,whiteforest,2022,1,30,0,4,1
+30-01-2022,cake,truffle,,1000,gram,1000,acc,,,,11.05137,77.07919,cake,truffle,2022,1,30,0,4,1
+05-02-2022,cake,whiteforest,,1000,gram,900,cash,,no,,,,cake,whiteforest,2022,2,5,6,5,1
+05-02-2022,cake,snickers,gray buttercream,1000,gram,1900,acc,,yes,,11.0051,77.0793,cake,Snickers,2022,2,5,6,5,1
+06-02-2022,cake,strawberry,,1000,gram,1500,acc,,yes,,11.10223,77.16961,cake,strawberry,2022,2,6,0,5,1
+25-12-2022,cake,mango,,1000,gram,850,acc,,,,11.06495,77.0819,cake,mango,2022,12,25,0,51,4
+29-12-2022,cake,chocolate,6 month gir baby,1000,gram,1400,acc,,,,,,cake,chocolate,2022,12,29,4,52,4
+30-12-2022,cake,truffle,mom blue cake,1000,gram,1400,,,,,,,cake,truffle,2022,12,30,5,52,4
+31-12-2022,fruit_cake,fruitcake,,1000,gram,1000,acc,,,,,,fruit cake,fruit cake,2022,12,31,6,52,4
+07-08-2021,cake,chocolate,,1000,gram,900,acc,,yes,,11.0477,77.08596,cake,chocolate,2021,8,7,6,31,3
+27-08-2021,cake,chocolate,pubg,1000,gram,1600,acc,,yes,,11.11194,77.31187,cake,chocolate,2021,8,27,5,34,3
+04-11-2021,hamper,,,2,box,1200,acc,,,,,,hamper,,2021,11,4,4,44,4
+09-04-2022,cake,chocolate,orange with copper drip,1000,gram,1755,acc,,,,11.00911,76.98019,cake,chocolate,2022,4,9,6,14,2
+29-05-2021,cake,truffle,,1000,gram,900,acc,,no,,,,cake,truffle,2021,5,29,6,21,2
+30-05-2021,cake,strawberry,,1000,gram,900,acc,,no,,,,cake,strawberry,2021,5,30,0,21,2
+31-05-2021,cake,chocomango,,1000,gram,900,acc,,no,,,,cake,chocomango delight,2021,5,31,1,22,2
+04-06-2021,cake,strawberry,mickey,1000,gram,980,acc,,no,,,,cake,strawberry,2021,6,4,5,22,2
+07-06-2021,,chocolate,peppa pig,1000,gram,1200,,,no,,,,,chocolate,2021,6,7,1,23,2
+09-06-2021,cake,blackforest,,1000,gram,800,cash,,no,,,,cake,blackforest,2021,6,9,3,23,2
+10-06-2021,cake,strawberry,,1000,gram,900,acc,,no,,,,cake,strawberry,2021,6,10,4,23,2
+11-03-2022,cake,mango,Krishna,1000,gram,1400,cash,,,,11.07056,77.0382,cake,mango,2022,3,11,5,10,1
+13-03-2022,cake,chocolate,tower cake with Macarons,1000,gram,1300,cash,,,,11.02262,77.022,cake,chocolate,2022,3,13,0,10,1
+14-03-2022,cake,mango,blue cake,1000,gram,1400,acc,,,,11.03466,77.02364,cake,mango,2022,3,14,1,11,1
+15-03-2022,cake,truffle,,1000,gram,1000,acc,,,,11.05226,77.06655,cake,truffle,2022,3,15,2,11,1
+18-03-2022,cake,chocolate,,1000,gram,1000,acc,,,,,,cake,chocolate,2022,3,18,5,11,1
+17-12-2022,cake,kesarbadam,,1000,gram,1200,,,,,11.14566,77.20376,cake,kesarbadham,2022,12,17,6,50,4
+18-11-2022,cake,chocolate,2tier pinkey star cake,2500,gram,3500,acc,,,,10.99849,76.96426,cake,chocolate,2022,11,18,5,46,4
+23-07-2021,cake,truffle,football,2500,gram,3000,acc,,no,,,,cake,truffle,2021,7,23,5,29,3
+30-04-2021,cake,misc_&_combo,animal themed tire cake,2500,gram,,,,,,,,cake,chocolate &straberry,2021,4,30,5,17,2
+02-10-2021,cake,blackforest,cake in forest,2500,gram,2500,acc,,yes,,11.01067,76.96188,cake,blackforest,2021,10,2,6,39,4
+27-06-2022,cake,blueberry,lavender colour cake with flowers,1500,gram,1950,acc,,,,,,cake,blueberry,2022,6,27,1,26,2
+24-11-2021,cake,truffle,tiercake with flowers,2500,gram,,,,,,11.01068,76.96127,cake,truffle,2021,11,24,3,47,4
+21-02-2022,cake,redvelvet,,2500,gram,3500,cash,,,,11.03185,77.01878,cake,redvelvet,2022,2,21,1,8,1
+03-12-2022,cake,chocolate,1st birthday  candy land cake with girl,2500,gram,4500,acc,,,,11.05136,77.06562,cake,chocolate cake,2022,12,3,6,48,4
+03-12-2022,cake,blackforest,,2500,gram,2000,cash,,,,11.06392,77.08152,cake,blackforest,2022,12,3,6,48,4
+27-01-2021,cake,blueberry,tirecake pinkeye sweril,2500,gram,3000,acc,,no,,,,cake,blueberry,2021,1,27,3,4,1
+11-04-2022,cake,blackforest,unicorn theam,2500,gram,2500,acc,,,,,,cake,blackforest,2022,4,11,1,15,2
+09-08-2022,cake,hazelnut,,2500,gram,4000,acc,,,,,,cake,hazelnut cake,2022,8,9,2,32,3
+23-07-2021,cake,redvelvet,,2000,gram,3000,acc,,yes,,11.00521,77.03553,cake,redvelvet,2021,7,23,5,29,3
+07-01-2021,cake,fusionberries,,2000,gram,1700,,,no,,,,cake,fussionberries,2021,1,7,4,1,1
+24-01-2021,cake,pineapple,engagement flowers cake,2000,gram,2200,acc,,no,,,,cake,pineapple,2021,1,24,0,3,1
+25-01-2021,cake,truffle,,2000,gram,1700,cash,,yes,,11.03775,77.03057,cake,truffle,2021,1,25,1,4,1
+01-02-2021,cake,fusionberries,tirecake,2000,gram,2400,acc,,,,,,cake,fussionberries,2021,2,1,1,5,1
+22-02-2021,cake,chocolate,cow,2000,gram,2600,acc,,yes,,11.05998,77.08324,cake,chocolate,2021,2,22,1,8,1
+26-02-2021,cake,strawberry,rainbow,2000,gram,2300,cash,80,yes,,11.09394,77.1813,cake,straberry,2021,2,26,5,8,1
+04-06-2021,cake,chocolate,,2000,gram,1800,acc,,no,,,,cake,chocolate,2021,6,4,5,22,2
+07-04-2021,cake,rose,unicorn,2000,gram,2500,acc,,yes,,11.01774,76.98339,cake,rose,2021,4,7,3,14,2
+26-04-2021,cake,strawberry,baby shower cake,2000,gram,2400,cash,,yes,,11.10515,77.17505,cake,straberry,2021,4,26,1,17,2
+04-07-2021,cake,strawberry,Mermaid,2000,gram,3200,acc,,no,,,,cake,strawberry,2021,7,4,0,26,3
+15-07-2021,cake,strawberry,Stephane baby girl,2000,gram,2500,acc,,no,,,,cake,strawberry,2021,7,15,4,28,3
+22-07-2021,cake,mango,rainbow,2000,gram,2000,cash,,no,,,,cake,mango,2021,7,22,4,29,3
+02-08-2021,cake,strawberry,underwater world,2000,gram,2400,acc,,yes,,11.0599,77.08333,cake,strawberry,2021,8,2,1,31,3
+20-08-2021,cake,chocovanilla,cow farm,2000,gram,2000,acc,,yes,,11.05948,77.08261,cake,chocovanilla,2021,8,20,5,33,3
+28-05-2021,cake,chocolate,,2000,gram,1600,acc,,no,,,,cake,chocolate,2021,5,28,5,21,2
+29-08-2021,cake,blackforest,,2000,gram,1900,cash,,yes,,11.09366,77.07139,cake,blackforest,2021,8,29,0,34,3
+16-09-2021,cake,truffle,pinkey heart,2000,gram,2300,acc,,no,,,,cake,truffle,2021,9,16,4,37,3
+17-09-2021,cake,pineapple,granney,2000,gram,2400,acc,,yes,,11.01195,76.99756,cake,pineapple,2021,9,17,5,37,3
+22-09-2021,cake,chocochip,pree fire,2000,gram,2600,acc,,yes,,11.01136,76.98445,cake,chocochip,2021,9,22,3,38,3
+09-10-2021,cake,chocolate,mini tire,2000,gram,2000,acc,,no,,,,cake,chocolate,2021,10,9,6,40,4
+26-10-2021,cake,strawberry,Tom and Jerry,2000,gram,2500,cash,,no,,,,cake,strawberry,2021,10,26,2,43,4
+01-11-2021,cake,pineapple,,2000,gram,1800,acc,,,,,,cake,pineapple,2021,11,1,1,44,4
+03-11-2021,cake,fusionberries,rose tier cake,2000,gram,3000,acc,,,,11.10655,77.17777,cake,fusionberries,2021,11,3,3,44,4
+05-11-2021,cake,chocolate,cars,2000,gram,3500,acc,,,,11.08024,76.99689,cake,chocolate,2021,11,5,5,44,4
+15-11-2021,cake,truffle,cage cake,2000,gram,2500,acc,,,,11.03814,77.03938,cake,truffle,2021,11,15,1,46,4
+20-11-2021,cake,mango,cars,2000,gram,2500,acc,,no,,,,cake,mango,2021,11,20,6,46,4
+20-11-2021,cake,chocolate,,2000,gram,1900,acc,,,,11.04279,77.04447,cake,chocolate,2021,11,20,6,46,4
+03-12-2021,cake,blackforest,,2000,gram,1600,acc,,no,,,,cake,blackforest,2021,12,3,5,48,4
+26-12-2021,cake,butterscotch,,2000,gram,1800,acc,,,,11.06213,77.08158,cake,butterscotch,2021,12,26,0,51,4
+07-01-2022,cake,strawberry,pinkey drip withpops,2000,gram,2400,cash,,no,,,,cake,strawberry,2022,1,7,5,1,1
+07-02-2022,cake,truffle,,2000,gram,1900,acc,,yes,,11.02545,77.12462,cake,truffle,2022,2,7,1,6,1
+08-02-2022,cake,strawberry,hencake,2000,gram,2800,acc,,no,,,,cake,strawberry,2022,2,8,2,6,1
+01-05-2022,cake,strawberry,pinkey cake,2000,gram,2100,cash,,,,11.0018,77.0669,cake,strawberry,2022,5,1,0,17,2
+28-05-2022,cake,chocolate,elephant (blue ),2000,gram,2700,acc,,,,11.04019,77.03952,cake,chocolate,2022,5,28,6,21,2
+04-06-2022,cake,chocochunk,,2000,gram,2200,acc,,,,11.03506,77.02948,cake,chocochunk,2022,6,4,6,22,2
+07-06-2022,cake,mango,unicorn,2000,gram,3000,,,no,,,,cake,mango,2022,6,7,2,23,2
+12-06-2022,cake,mango,,2000,gram,2100,acc,,,,10.99962,77.01024,cake,mango,2022,6,12,0,23,2
+16-06-2022,cake,mango,minion,2000,gram,2400,acc,,,,11.00389,77.05292,cake,mango,2022,6,16,4,24,2
+21-06-2022,cake,chocolate,minion,2000,gram,2650,acc,,,,10.95412,76.97729,cake,chocolate,2022,6,21,2,25,2
+24-07-2022,cake,lotus_biscoff,3rd birthday,2000,gram,3650,acc,,,,11.07805,77.03718,cake,biscoff,2022,7,24,0,29,3
+13-08-2022,cake,caramel,green colour gaming cake,2000,gram,2500,acc,,,,,,cake,salted caramel,2022,8,13,6,32,3
+20-08-2022,cake,pineapple,wedding cake,2000,gram,2800,acc,,,,,,cake,pineapple,2022,8,20,6,33,3
+23-08-2022,cake,kesarbadam,1st year cake with teddy and golden moon,2000,gram,3200,acc,,,,11.08615,77.13378,cake,kesarbadham,2022,8,23,2,34,3
+05-09-2022,cake,truffle,cake topped with beries,2000,gram,2000,acc,,,,11.03283,77.03492,cake,truffle,2022,9,5,1,36,3
+06-09-2022,cake,lotus_biscoff,jcb thela with candies,2000,gram,3200,acc,,,,11.03239,77.02997,cake,lotusbiscof,2022,9,6,2,36,3
+06-09-2022,cake,kesarbadam,,2000,gram,,,,,,11.03453,77.07331,cake,kesarbadham,2022,9,6,2,36,3
+10-09-2022,cake,strawberry,candy pops,2000,gram,2500,acc,,,,11.09284,77.14558,cake,strawberry,2022,9,10,6,36,3
+11-10-2022,cake,hazelnut,2tier cake,2000,gram,2000,cash,,,,,,cake,hazelnut,2022,10,11,2,41,4
+22-11-2022,cake,chocochunk,bongs,2000,gram,2890,acc,,,,10.92258,76.98262,cake,chocochunk,2022,11,22,2,47,4
+05-12-2022,cake,pineapple,teddy bear,2000,gram,2600,acc,,,,11.04839,77.11676,cake,pineapple,2022,12,5,1,49,4
+12-12-2022,cake,pineapple,,2000,gram,1850,acc,,,,11.08519,77.12254,cake,pineapple,2022,12,12,1,50,4
+20-12-2022,cake,pineapple,butterfly,2000,gram,2500,acc,,,,11.00298,77.13852,cake,pine apple,2022,12,20,2,51,4
+01-03-2022,cake,chocolate,sendoff,2000,gram,2450,acc,,yes,,10.93619,76.9996,cake,chocolate,2022,3,1,2,9,1
+23-03-2022,cake,misc_&_combo,,2000,gram,2000,,,,,,,cake,baby shower,2022,3,23,3,12,1
+28-06-2022,cake,greenapple,,1000,gram,900,,,,,,,cake,green apple,2022,6,28,2,26,2
+26-03-2022,cake,kesarbadam,,2000,gram,2400,acc,,,,11.08664,77.13361,cake,kesarbadham,2022,3,26,6,12,1
+16-01-2021,,pineapple,,40,pcs,1600,acc,,no,,,,,pineapple.,2021,1,16,6,2,1
+26-01-2021,cake,chocomango,engagement,2000,gram,2300,,,no,,,,cake,mango +chocolate,2021,1,26,2,4,1
+01-04-2022,cake,chocolate,blue elephant,2000,gram,1760,acc,,,,11.00259,77.03909,cake,chocolate,2022,4,1,5,13,2
+30-01-2022,cake,whiteforest,2tier cake with blue and white theam,2000,gram,2500,cash,,,,,,cake,whiteforest,2022,1,30,0,4,1
+26-08-2021,cake,chocovanilla,,2000,gram,1950,acc,,yes,,11.03654,77.04205,cake,chocovanilla,2021,8,26,4,34,3
+07-06-2021,cake,mango,piney farm,2000,gram,2400,,,no,,,,cake,mango,2021,6,7,1,23,2
+26-06-2021,cake,chocolate,tirecake,2000,gram,2000,acc,,no,,,,cake,chocolate,2021,6,26,6,25,2
+11-06-2021,cake,mango,tire cake,2000,gram,2100,acc,,no,,,,cake,mango,2021,6,11,5,23,2
+15-10-2021,cake,chocovanilla,garden thea.,2000,gram,2600,acc,,yes,,,,cake,chocovanilla,2021,10,15,5,41,4
+19-10-2021,cake,kesarbadam,pinkey tier cake,2000,gram,4000,cash,,,,,,cake,kesarbadhan,2021,10,19,2,42,4
+05-12-2022,cake,truffle,redheart,2000,gram,2200,acc,,,,11.06143,77.03746,cake,truffle,2022,12,5,1,49,4
+02-05-2021,cake,strawberry,JCB,2000,gram,2000,,,yes,,,,cake,straberry,2021,5,2,0,17,2
+15-09-2021,cake,chocolate,whinnepooh,3000,gram,3900,acc,,no,,,,cake,chocolate cake,2021,9,15,3,37,3
+04-01-2022,cake,chocolate,pikachu,3000,gram,3500,acc,,no,,,,cake,chocolate,2022,1,4,2,1,1
+04-01-2022,cake,truffle,babyshark,3000,gram,3900,acc,,no,,,,cake,truffle,2022,1,4,2,1,1
+25-05-2021,cake,truffle,,500,gram,500,acc,,,,,,cake,truffle,2021,5,25,2,21,2
+13-05-2021,cake,chocolate,,500,gram,450,acc,,no,,,,cake,chocolate,2021,5,13,4,19,2
+28-02-2022,cake,blackforest,,500,gram,500,cash,,no,,,,cake,blackforest,2022,2,28,1,9,1
+07-11-2022,cake,chocolate,2tier floral babyshower,3000,gram,3000,acc,,,,11.06397,77.08163,cake,chocolate,2022,11,7,1,45,4
+28-11-2022,cake,chocolate,,3000,gram,3500,acc,,,,,,cake,chocolate,2022,11,28,1,48,4
+23-07-2021,cake,pineapple,,3000,gram,2500,,,no,,,,cake,pineapple,2021,7,23,5,29,3
+21-01-2022,cake,chocolate,2tier cake,3000,gram,4300,acc,,yes,,11.00688,77.02356,cake,chocolate,2022,1,21,5,3,1
+26-11-2022,cake,strawberry,candyland theam,3000,gram,4500,acc,,,,10.99615,76.93939,cake,strawberry,2022,11,26,6,47,4
+01-08-2022,cake,chocolate,unicorn cake,4000,gram,5000,acc,,,,11.01051,76.98766,cake,chocolate,2022,8,1,1,31,3
+20-02-2021,cake,chocolate,tirecake,4000,gram,5000,acc,,no,,,,cake,chocolate,2021,2,20,6,7,1
+19-08-2021,cake,chocovanilla,tower's cake with silver,5000,gram,6500,acc,,no,,,,cake,chocovanilla,2021,8,19,4,33,3
+25-06-2022,cake,truffle,minion,5000,gram,6500,acc,,,,10.95893,76.97182,cake,truffle,2022,6,25,6,25,2
+09-06-2021,eclair,chocolate,,6,pcs,270,acc,,no,,,,eclair,chocolate,2021,6,9,3,23,2
+02-07-2021,cupcake,chocolate,couple,6,pcs,400,acc,,yes,50,11.09144,77.13924,cupcakes,chocolate,2021,7,2,5,26,3
+06-07-2021,cupcake,strawberry,,9,pcs,495,acc,,yes,,11.01493,77.08666,cupcakes,strawberry,2021,7,6,2,27,3
+06-07-2021,brownie,chocochunk,,6,pcs,400,acc,,yes,,,,brownies,chocochunk,2021,7,6,2,27,3
+08-07-2021,brownie,chocolate,,3,pcs,240,acc,,yes,30,11.01631,77.13317,brownies,chocooverloaded,2021,7,8,4,27,3
+08-07-2021,brownie,misc_&_combo,,6,pcs,480,acc,,yes,30,11.02013,77.12734,brownies,chocoloaded-hazelnuts,2021,7,8,4,27,3
+11-07-2021,brownie,misc_&_combo,,8,pcs,570,acc,,yes,50,11.02013,77.12734,brownies,combined,2021,7,11,0,27,3
+18-07-2021,brownie,chocochip,,4,pcs,220,acc,,,,,,brownies,chocochip,2021,7,18,0,28,3
+18-07-2021,cakepops,chocolate,,6,pcs,350,acc,,yes,30,11.01631,77.13317,cakpops,chocolate,2021,7,18,0,28,3
+23-07-2021,brownie,,,5,pcs,360,,,yes,,11.09951,77.18051,brownies,,2021,7,23,5,29,3
+24-07-2021,brownie,mixed,,8,pcs,560,cash,,no,,,,brownies,mixed,2021,7,24,6,29,3
+29-07-2021,cakepops,chocolate,,6,pcs,360,acc,,,,,,cakepops,chocolate,2021,7,29,4,30,3
+01-08-2021,cupcake,chocolate,combined jackdanials,6,pcs,500,cash,,yes,,10.99736,76.99958,cupcakes,chocolate,2021,8,1,0,30,3
+05-08-2021,cupcake,strawberry,,6,pcs,390,acc,,,,,,cupcake,strawberry,2021,8,5,4,31,3
+16-08-2021,cakesicle,chocolate,,6,pcs,540,acc,,yes,,11.00188,77.08222,cakesicls,chocolate,2021,8,16,1,33,3
+31-08-2021,jarcake,fusionberries,,2,pcs,320,acc,,yes,,11.07805,77.03718,cakejar,fussion berries,2021,8,31,2,35,3
+31-08-2021,macaron,misc_&_combo,,12,pcs,1020,acc,,yes,,11.012,76.99812,macarons,pineapple & chocolate,2021,8,31,2,35,3
+01-09-2021,cupcake,vanilla,,16,pcs,950,,,no,,,,cupcakes,vanilla,2021,9,1,3,35,3
+04-09-2021,cupcake,pineapple,,6,pcs,,,,yes,,,,cupcake,pine apple,2021,9,4,6,35,3
+03-10-2021,cupcake,chocolate,couple,7,pcs,595,acc,,yes,,,,cupcakes,chocolate,2021,10,3,0,39,4
+09-06-2021,cake,chocolate,,500,gram,480,acc,,no,,,,cake,chocolate,2021,6,9,3,23,2
+02-07-2021,cake,chocochip,pinkey elephant,500,gram,800,acc,,yes,,11.08284,77.1225,cake,chocochip,2021,7,2,5,26,3
+26-07-2022,cake,chocovanilla,,1500,gram,1500,cash,,,,,,cake,chocovanilla,2022,7,26,2,30,3
+30-07-2022,cake,mango,Z company logo,1500,gram,1700,acc,,,,,,cake,mango,2022,7,30,6,30,3
+26-05-2022,cake,chocolate,cookie monster (half cake ),1000,gram,1650,acc,,,,,,cake,Chocolate,2022,5,26,4,21,2
+27-05-2022,cake,truffle,"dad ,ECG ,",1000,gram,1100,acc,,,,,,cake,truffle,2022,5,27,5,21,2
+07-06-2022,cake,blueberry,pinkey girl,1000,gram,1300,acc,,no,,,,cake,blueberry,2022,6,7,2,23,2
+22-06-2022,cake,chocolate,mermaid,1000,gram,1400,acc,,,,,,cake,chocolate,2022,6,22,3,25,2
+25-06-2022,cake,blackforest,50th birthday cake,1000,gram,1000,acc,,,,,,cake,blackforest,2022,6,25,6,25,2
+02-07-2022,cake,lotus_biscoff,puppy theam,1000,gram,2330,acc,,,,,,cake,lotusbiscoff,2022,7,2,6,26,3
+07-07-2022,cake,whiteforest,,1000,gram,950,cash,,,,,,cake,whiteforest,2022,7,7,4,27,3
+11-06-2022,cake,truffle,printed bike,1000,gram,1300,acc,,,,,,cake,truffle,2022,6,11,6,23,2
+16-07-2022,cake,misc_&_combo,unicorn,1000,gram,1500,acc,,,,,,cake,silkey rose,2022,7,16,6,28,3
+16-07-2022,cake,chocolate,cricket theam,1000,gram,1300,acc,,,,,,cake,chocolate,2022,7,16,6,28,3
+20-07-2022,cake,redvelvet,,1000,gram,1500,cash,,,,,,cake,redvelvet,2022,7,20,3,29,3
+28-07-2022,cake,hazelnut,,1000,gram,1700,acc,,,160,,,cake,hazelnut,2022,7,28,4,30,3
+31-07-2022,cake,mango,pink rosset,1000,gram,1100,cash,,,,,,cake,mango,2022,7,31,0,30,3
+31-07-2022,cake,blackforest,black and gold 50th b day cake,1000,gram,1500,acc,,,,,,cake,blackforest,2022,7,31,0,30,3
+02-08-2022,cake,truffle,Avengers,1000,gram,1500,acc,,,250,,,cake,truffle,2022,8,2,2,31,3
+03-08-2022,cake,blackforest,,1000,gram,900,cash,,,,,,cake,blackforest,2022,8,3,3,31,3
+18-08-2022,cake,chocolate,half birthday Batman,1000,gram,1400,acc,,,,,,cake,chocolate,2022,8,18,4,33,3
+20-08-2022,cake,mango,anniversary heart tree,1000,gram,1200,cash,,,,,,cake,mango,2022,8,20,6,33,3
+30-08-2022,cake,butterscotch,violet colour cake with flowers,1000,gram,1400,acc,,,,,,cake,butterscotch,2022,8,30,2,35,3
+02-09-2022,cake,chocolate,JCB,1000,gram,1300,acc,,,,,,cake,chocolate,2022,9,2,5,35,3
+02-09-2022,cake,misc_&_combo,Anniversary cake,1000,gram,1500,acc,,,,,,cake,picepaper,2022,9,2,5,35,3
+15-09-2022,cake,kesarbadam,elephant drums,1000,gram,1600,acc,,,130,,,cake,kesarbadham,2022,9,15,4,37,3
+06-10-2022,cake,pineapple,white gown,1000,gram,980,acc,,,,,,cake,pineapple,2022,10,6,4,40,4
+07-10-2022,cake,pineapple,,1000,gram,980,acc,,,,,,cake,pineapple,2022,10,7,5,40,4
+19-11-2022,cake,chocolate,,1000,gram,980,acc,,,,,,cake,chocolate,2022,11,19,6,46,4
+29-11-2022,cake,blueberry,violet ricepaper,1000,gram,1700,,,,,,,cake,blueberry,2022,11,29,2,48,4
+03-12-2022,cake,misc_&_combo,panda cake,1000,gram,1500,acc,,,,,,cake,Chocolate orange cake,2022,12,3,6,48,4
+03-12-2022,cake,chocolate,pink specialmcake,1000,gram,1600,acc,,,,,,cake,chocolate cake,2022,12,3,6,48,4
+05-12-2022,cake,truffle,,1000,gram,1300,acc,,,,,,cake,truffle,2022,12,5,1,49,4
+22-12-2022,fruit_cake,christmas,,1000,gram,1000,acc,,,,,,fruit cake,christmas,2022,12,22,4,51,4
+23-12-2022,cake,chocolate,jungle theam,1000,gram,1500,acc,,,,,,cake,chocolate,2022,12,23,5,51,4
+21-06-2022,,chocolate,,1000,gram,950,acc,,,,,,,chocolate,2022,6,21,2,25,2
+25-12-2022,cake,chocolate,,1000,gram,950,acc,,,,,,cake,chocolate,2022,12,25,0,51,4
+03-09-2022,cake,chocolate,jungle theam,2500,gram,3300,acc,,,130,,,cake,chocolate,2022,9,3,6,35,3
+08-05-2022,cake,truffle,elephant,2000,gram,2200,cash,,,,,,cake,truffle,2022,5,8,0,18,2
+24-05-2022,cake,strawberry,,2000,gram,1800,acc,,,,,,cake,strawberry,2022,5,24,2,21,2
+24-07-2022,cake,truffle,Thomas cake,2000,gram,3500,acc,,,,,,cake,truffle,2022,7,24,0,29,3
+18-12-2022,cake,chocolate,unicorn,2000,gram,2500,acc,,,,,,cake,chocolate,2022,12,18,0,50,4
+31-05-2022,cake,pineapple,rose wedding cake,3000,gram,4000,acc,,,,,,cake,pine apple,2022,5,31,2,22,2
+04-09-2022,cake,butterscotch,wedding,3000,gram,3600,acc,,,180,,,cake,butterscotch,2022,9,4,0,35,3
+20-02-2022,cheesecake,mixed,,4,pcs,480,acc,,,,,,cheesecake,mixed,2022,2,20,0,7,1
+16-06-2022,brownie,chocochunk,,8,pcs,520,acc,,,,,,brownies,chocochunk,2022,6,16,4,24,2
+22-06-2022,cupcake,vanilla,,25,pcs,1500,acc,,,,,,cupcake,vanilla,2022,6,22,3,25,2
+25-06-2022,brownie,misc_&_combo,,6,pcs,480,acc,,,,,,brownies,"lotusbiscoff 3,hazelnuts3",2022,6,25,6,25,2
+04-07-2022,entremet,misc_&_combo,,2,pcs,460,acc,,,,,,entremet,belgian chocolate,2022,7,4,1,27,3
+15-07-2022,brownie,chocolate,,6,pcs,390,acc,,,,,,brownies,chocolate,2022,7,15,5,28,3
+16-07-2022,cupcake,chocolate,,6,pcs,390,acc,,,,,,cupcake,chocolate,2022,7,16,6,28,3
+16-07-2022,cupcake,mixedfruit,,6,pcs,570,acc,,,,,,cupcakes,mixed fruit,2022,7,16,6,28,3
+09-08-2022,cupcake,blueberry,,6,pcs,450,acc,,,,,,cupcakes,blueberry,2022,8,9,2,32,3
+18-08-2022,cakesicle,chocolate,Batman,6,pcs,570,acc,,,,,,cakesicls,chocolate,2022,8,18,4,33,3
+29-09-2022,cookie,chocochip,,10,pcs,350,acc,,,,,,cookies,chocochip,2022,9,29,4,39,3
+30-09-2022,,lotus_biscoff,,2,pcs,240,acc,,,,,,,biscoff,2022,9,30,5,39,3
+11-11-2022,brownie,misc_&_combo,,2,pcs,150,acc,,,,,,brownies,chocolate coated,2022,11,11,5,45,4
+17-11-2022,misc_&_combo,caramel,,6,pcs,210,acc,,,,,,bonbon,caramel,2022,11,17,4,46,4
+14-10-2022,cake,whiteforest,,500,gram,500,acc,,,,,,cake,whiteforest,2022,10,14,5,41,4
+23-05-2021,cake,chocolate,,500,gram,450,acc,,yes,,11.05281,77.06576,cake,chocolate,2021,5,23,0,20,2
+03-10-2021,cakesicle,chocolate,,2,pcs,180,acc,,yes,,,,cakesicls,chocolate,2021,10,3,0,39,4
+28-05-2021,cupcake,vanilla,,6,pcs,330,acc,,,,,,cupcake,vanilla,2021,5,28,5,21,2
+28-05-2021,cupcake,strawberry,,6,pcs,360,acc,,no,,,,cupcake,strawberry,2021,5,28,5,21,2
+28-05-2021,eclair,chocolate,,6,pcs,270,acc,,,,,,eclair,chocolate,2021,5,28,5,21,2
+28-05-2021,eclair,chocolate,,25,pcs,1000,,,,,,,eclair,chocolate,2021,5,28,5,21,2
+21-08-2021,brownie,chocochunk,,9,pcs,495,acc,,yes,290,10.97729,77.27114,brownies,chocochunk,2021,8,21,6,33,3
+21-08-2021,entremet,chocolate,,8,pcs,800,acc,,,,,,entriment,chocolate,2021,8,21,6,33,3
+21-08-2021,cupcake,chocolate,,10,pcs,600,acc,,yes,,11.05184,77.04349,cupcakes,chocolate,2021,8,21,6,33,3
+22-08-2021,cupcake,chocolate,farm themed,6,pcs,540,acc,,,,,,cupcake,chocolate,2021,8,22,0,33,3
+04-09-2021,cupcake,pineapple,,6,pcs,360,acc,,yes,,11.012,76.99812,cupcake,pine apple,2021,9,4,6,35,3
+22-09-2021,cakepops,chocolate,,15,pcs,900,acc,,,,,,cakepops,chocolate,2021,9,22,3,38,3
+22-09-2021,misc_&_combo,,,9,pcs,550,acc,,yes,,11.01774,76.98339,brownies &cookiesticks,,2021,9,22,3,38,3
+28-09-2021,cupcake,chocolate,girly cakes,6,pcs,510,acc,,yes,,11.03429,77.03338,cupcake,chocolate,2021,9,28,2,39,3
+29-09-2021,cakesicle,misc_&_combo,,2,pcs,210,acc,,yes,,11.01196,76.99777,cakesicls,Blueberry/strawberry,2021,9,29,3,39,3
+07-10-2021,cupcake,mixedfruit,,12,pcs,780,acc,,no,,,,cupcake,mixedfruit,2021,10,7,4,40,4
+12-10-2021,cupcake,chocolate,couples bridetobe,5,pcs,425,acc,,,,,,cupcake,chocolate,2021,10,12,2,41,4
+12-10-2021,cupcake,misc_&_combo,"""",5,pcs,475,acc,,yes,,11.04642,77.0137,cupcake,chocostrawberry,2021,10,12,2,41,4
+12-10-2021,cupcake,chocolate,Dental(2)normal(4),6,pcs,440,acc,,yes,,11.01835,77.10332,cupcake,chocolate,2021,10,12,2,41,4
+16-10-2021,eclair,chocolate,,2,pcs,90,acc,,,,,,eclair,chocolate,2021,10,16,6,41,4
+16-10-2021,brownie,chocochunk,,4,pcs,220,acc,,,,,,brownies,chocochunk,2021,10,16,6,41,4
+20-10-2021,cupcake,chocolate,loyer,6,pcs,590,acc,,,,,,cupcake,chocolate,2021,10,20,3,42,4
+25-10-2021,brownie,chocochunk,,10,pcs,750,acc,,,,,,brownies,chocochunk,2021,10,25,1,43,4
+03-11-2021,hamper,,,2,pcs,1200,,,,,,,hamper,,2021,11,3,3,44,4
+04-11-2021,brownie,chocochunk,,4,pcs,220,acc,,,,11.06965,77.0833,brownies,chocochunk,2021,11,4,4,44,4
+05-11-2021,cupcake,chocolate,,10,pcs,500,acc,,,,,,cupcake,chocolate,2021,11,5,5,44,4
+06-11-2021,cupcake,chocolate,wedding,6,pcs,540,acc,,,,,,cupcake,chocolate,2021,11,6,6,44,4
+06-11-2021,eclair,chocolate,,8,pcs,360,acc,,,,,,eclair,chocolate,2021,11,6,6,44,4
+06-11-2021,cupcake,mixedfruit,pre-wedding,10,pcs,950,acc,,,,,,cupcake,mixed fruit,2021,11,6,6,44,4
+08-11-2021,brownie,chocochunk,,4,pcs,260,acc,,,,11.03473,77.03398,brownies,chocochunk,2021,11,8,1,45,4
+11-11-2021,brownie,chocochunk,singlelayer cake,5,pcs,480,acc,,,,11.03211,77.16433,brownie,chocochunk,2021,11,11,4,45,4
+18-11-2021,brownie,chocochip,,4,pcs,260,,,,,,,brownies,chocochip,2021,11,18,4,46,4
+20-11-2021,cupcake,misc_&_combo,,8,pcs,550,acc,,,,,,cupcake,mixedberries,2021,11,20,6,46,4
+20-11-2021,cupcake,mixedfruit,,12,pcs,798,acc,,,,,,cupcake,mixed fruit,2021,11,20,6,46,4
+20-11-2021,eclair,chocolate,,15,pcs,750,acc,,,,,,eclair,chocolate,2021,11,20,6,46,4
+21-11-2021,cupcake,chocovanilla,,12,pcs,800,acc,,no,,,,cupcake,vanill &chocolate,2021,11,21,0,46,4
+01-12-2021,brownie,misc_&_combo,,9,pcs,668,acc,,yes,,11.02295,77.01859,brownies,"chocolate,overloaded,hazelnut,lotus",2021,12,1,3,48,4
+04-12-2021,cupcake,chocolate,anniversary custamaised,6,pcs,540,acc,,yes,,11.00594,77.05308,cupcake,chocolate,2021,12,4,6,48,4
+07-12-2021,cupcake,chocolate,raghibites,6,pcs,600,acc,,yes,,11.05784,77.00125,cupcake,chocolate,2021,12,7,2,49,4
+13-12-2021,cakepops,chocolate,,6,pcs,550,acc,,yes,,11.07578,77.10029,cakepops,chocolate,2021,12,13,1,50,4
+13-12-2021,cupcake,chocolate,,12,pcs,720,acc,,no,,,,cupcake,chocolate,2021,12,13,1,50,4
+15-12-2021,brownie,chocolate,,8,pcs,480,acc,,yes,,11.02834,76.99234,brownies,chocolate,2021,12,15,3,50,4
+16-12-2021,brownie,chocochip,stripped,5,pcs,300,acc,,,,11.049,77.12612,brownies,chocochip,2021,12,16,4,50,4
+18-12-2021,bento,strawberry,,2,pcs,650,acc,,,,11.0351,77.00769,bentocake,strawberry,2021,12,18,6,50,4
+21-12-2021,brownie,chocochunk,,5,pcs,300,acc,,no,,,,brownies,chocochunk,2021,12,21,2,51,4
+23-12-2021,brownie,chocochunk,tower,9,pcs,600,acc,,,,11.05874,77.08026,bronwies,chocochunk,2021,12,23,4,51,4
+25-12-2021,entremet,mixed,,5,pcs,1050,acc,,,,10.99626,76.99769,entremet,mixed,2021,12,25,6,51,4
+04-01-2022,cakesicle,chocolate,Pikachu &gym,6,pcs,720,acc,,no,,,,cakesickes,chocolate,2022,1,4,2,1,1
+05-01-2022,cupcake,chocolate,A theam,10,pcs,1100,acc,,yes,,11.05604,77.04677,cupcake,chocolate,2022,1,5,3,1,1
+05-01-2022,brownie,chocochunk,,9,pcs,600,cash,,yes,,11.0736,77.01405,brownies,chocochunk,2022,1,5,3,1,1
+10-01-2022,cakesicle,chocolate,,6,pcs,720,acc,,,,,,cakesickes,chocolate,2022,1,10,1,2,1
+11-01-2022,cakesicle,misc_&_combo,,2,pcs,120,acc,,yes,,,,cakesickes,cakesickes,2022,1,11,2,2,1
+14-01-2022,cakesicle,chocolate,,2,pcs,150,acc,,,,,,cakesickes,chocolate,2022,1,14,5,2,1
+25-01-2022,misc_&_combo,misc_&_combo,,8,pcs,350,acc,,yes,,11.0048,76.97592,choux,Vanilla custard,2022,1,25,2,4,1
+06-02-2022,cupcake,blueberry,,6,pcs,400,acc,,,,,,cupcakes,blueverry,2022,2,6,0,5,1
+09-02-2022,cupcake,blueberry,,6,pcs,450,acc,,,,,,cupcake,blueberry,2022,2,9,3,6,1
+11-02-2022,misc_&_combo,misc_&_combo,,2,pcs,100,acc,,,,,,chocolate,milk chocolate bars,2022,2,11,5,6,1
+14-02-2022,brownie,chocochunk,,6,pcs,360,acc,,,,11.10549,77.02733,brownies,chochunk,2022,2,14,1,7,1
+15-02-2022,,brownie,,9,pcs,550,acc,,,,11.01153,77.08459,,brownies,2022,2,15,2,7,1
+16-02-2022,cupcake,,puppy theam,6,pcs,510,acc,,no,,,,cupcake,,2022,2,16,3,7,1
+16-02-2022,cupcake,strawberry,,6,pcs,450,acc,,,,11.10244,77.1738,cupcake,strawberry,2022,2,16,3,7,1
+16-02-2022,cupcake,lotus_biscoff,purple,6,pcs,660,acc,,,,11.06497,77.06363,cupcakes,biscoff,2022,2,16,3,7,1
+15-04-2022,cupcake,chocolate,,6,pcs,360,acc,,,,,,cupcakes,chocolate,2022,4,15,5,15,2
+04-05-2022,cupcake,strawberry,,12,pcs,840,,,,,10.97878,77.04201,cupcake,strawberry,2022,5,4,3,18,2
+07-05-2022,misc_&_combo,cheesegarlic,,3,pcs,120,acc,,,,,,croissants,cheese garlic,2022,5,7,6,18,2
+07-05-2022,misc_&_combo,cheesegarlic,,3,pcs,120,acc,,,,,,croissants,cheese garlic,2022,5,7,6,18,2
+11-05-2022,cupcake,chocolate,pink,8,pcs,390,acc,,,,11.05599,77.06142,cupcake,chocolate,2022,5,11,3,19,2
+19-05-2022,cookie,chocochip,,10,pcs,300,,,,,11.0669,77.10979,chocochip cookies,choco hip,2022,5,19,4,20,2
+19-05-2022,cookie,chocochip,,10,pcs,350,acc,,,,11.00863,77.06473,chocochip cookies,chocochip,2022,5,19,4,20,2
+24-05-2022,cupcake,strawberry,,6,pcs,420,acc,,,,11.00992,77.07994,cupcake,strawberry,2022,5,24,2,21,2
+24-05-2022,brownie,chocochunk,,9,pcs,585,acc,,,,11.00992,77.07994,brownies,chocochunk,2022,5,24,2,21,2
+27-05-2022,cookie,chocochip,,9,pcs,315,acc,,,,11.05132,77.12726,cookies,chocochip,2022,5,27,5,21,2
+01-06-2022,cupcake,chocolate,,9,pcs,585,,,,,10.97651,77.02709,cupcake,Chocolate,2022,6,1,3,22,2
+04-06-2022,cupcake,vanilla,,6,pcs,400,acc,,,,11.06014,76.98908,cupcakes,vanilla,2022,6,4,6,22,2
+03-09-2022,cupcake,chocolate,jungle theam,6,pcs,570,acc,,,,,,cupcake,chocolate,2022,9,3,6,35,3
+07-06-2022,cupcake,mango,,6,pcs,420,acc,,,,11.05288,76.99543,cupcake,mango,2022,6,7,2,23,2
+11-06-2022,misc_&_combo,,,5,pcs,1000,acc,,no,,,,fondant toys,,2022,6,11,6,23,2
+11-06-2022,cheesecake,mixed,,7,pcs,1020,acc,,no,,,,cheesecake,mixed,2022,6,11,6,23,2
+16-06-2022,cupcake,chocolate,,1,pcs,65,cash,,,,11.10515,77.17505,cupcake,chocolate,2022,6,16,4,24,2
+16-06-2022,brownie,chocochip,,1,pcs,75,cash,,,,11.10515,77.17505,brownies,chocochip,2022,6,16,4,24,2
+16-06-2022,cupcake,chocolate,dad to be,6,pcs,500,acc,,,,11.07618,76.99778,cupcake,chocolate,2022,6,16,4,24,2
+19-06-2022,cookie,,,10,pcs,350,acc,,,,11.08646,77.13692,chocochip cookie,,2022,6,19,0,24,2
+19-06-2022,cookie,chocochip,,2,pcs,80,acc,,,,11.05288,76.99544,cookies,chocochip,2022,6,19,0,24,2
+19-06-2022,cookie,chocochip,,5,pcs,200,,,,,11.05288,76.99544,cookies,chocochip,2022,6,19,0,24,2
+22-06-2022,brownie,chocochunk,,6,pcs,400,acc,,,,11.11101,77.02373,brownies,chocochunk,2022,6,22,3,25,2
+25-06-2022,cupcake,chocolate,minion,9,pcs,855,acc,,,,10.95893,76.97182,cupcake,chocolate,2022,6,25,6,25,2
+29-06-2022,brownie,chocochunk,,6,pcs,390,cash,,,,11.05261,77.07431,brownies,chocochunk,2022,6,29,3,26,2
+02-07-2022,brownie,chocochunk,,6,pcs,440,acc,,,,10.93894,77.00519,brownies,chocochunk,2022,7,2,6,26,3
+04-07-2022,entremet,strawberry,,3,pcs,540,acc,,,,,,entremet,strawberry,2022,7,4,1,27,3
+04-07-2022,macaron,pineapple,,6,pcs,390,acc,,,,,,macarons,pine apple,2022,7,4,1,27,3
+07-07-2022,macaron,misc_&_combo,,10,pcs,650,acc,,,,11.0753,77.03559,manarons,strawberry & pineapple,2022,7,7,4,27,3
+30-12-2022,,,,,,500,cash,,,,,,,,2022,12,30,5,52,4
+12-07-2022,donut,mixed,,8,pcs,580,acc,,,,11.02101,76.97303,donuts,mixed,2022,7,12,2,28,3
+30-07-2022,jarcake,truffle,,4,pcs,600,cash,,,,11.07107,77.10356,jar cake,truffle,2022,7,30,6,30,3
+01-08-2022,entremet,strawberry,,4,pcs,720,acc,,,,11.01242,76.99901,entremets,strawberry,2022,8,1,1,31,3
+03-08-2022,cupcake,vanilla,minion,6,pcs,600,acc,,,,11.07784,77.03646,cupcake,vanilla,2022,8,3,3,31,3
+04-08-2022,entremet,strawberry,,1,pcs,200,acc,,,,11.06808,77.09971,entremet,strawberry,2022,8,4,4,31,3
+04-08-2022,cupcake,vanilla,,2,pcs,130,acc,,,,11.06808,77.09971,cupcakes,vanilla,2022,8,4,4,31,3
+04-08-2022,cakesicle,chocolate,,3,pcs,240,acc,,,,11.06808,77.09971,cakesicls,chocolate,2022,8,4,4,31,3
+19-02-2022,cupcake,misc_&_combo,,6,pcs,600,acc,,no,,,,cupcake,mixed berries,2022,2,19,6,7,1
+20-08-2022,cakepops,chocolate,,15,pcs,825,acc,,,,,,cakepops,Chocolate,2022,8,20,6,33,3
+20-08-2022,cakepops,vanilla,,15,pcs,825,acc,,,,,,cake pops,vanilla,2022,8,20,6,33,3
+24-08-2022,brownie,chocolate,,30,pcs,1900,acc,,,,11.03642,77.03036,brownies,chocolate,2022,8,24,3,34,3
+10-09-2022,cupcake,blueberry,wedding custamaisation,12,pcs,1500,acc,,,,11.0556,77.04707,cupcake,blueberry,2022,9,10,6,36,3
+15-09-2022,brownie,misc_&_combo,,6,pcs,470,cash,,,,11.10185,77.17666,brownies,chocolate toppings,2022,9,15,4,37,3
+18-09-2022,brownie,chocolate,,6,pcs,390,acc,,,,11.08614,77.13435,brownies,chocolate,2022,9,18,0,37,3
+19-09-2022,donut,misc_&_combo,,3,pcs,145,acc,,,,11.05034,77.01165,donuts,chocolate &blueberry,2022,9,19,1,38,3
+20-09-2022,eclair,chocolate,,10,pcs,300,cash,,,,,,eclair,chocolate,2022,9,20,2,38,3
+29-09-2022,misc_&_combo,chocolate,,10,pcs,100,acc,,,,,,choux,chocolate,2022,9,29,4,39,3
+29-09-2022,cookie,chocochip,,9,pcs,300,acc,,,,11.05034,77.01165,cookies,chocochip,2022,9,29,4,39,3
+03-10-2022,cheesecake,misc_&_combo,,2,pcs,230,,,,,11.07232,77.12677,cheesecake,vanilla &biscoff,2022,10,3,1,40,4
+07-10-2022,cookie,chocochip,,2,pcs,70,acc,,,,,,cookies,chocochip,2022,10,7,5,40,4
+08-10-2022,brownie,chocochunk,,6,pcs,350,acc,,,,11.05277,77.07361,brownies,chocochunk,2022,10,8,6,40,4
+12-10-2022,brownie,misc_&_combo,,6,pcs,390,acc,,,,,,brownies,chocolate coated,2022,10,12,3,41,4
+12-10-2022,brownie,misc_&_combo,,6,pcs,390,acc,,,,11.06383,77.03255,brownies,chocolate coated,2022,10,12,3,41,4
+13-10-2022,cupcake,misc_&_combo,,30,pcs,1950,acc,,,,,,cupcakes,chocolate ( wholewheat ),2022,10,13,4,41,4
+16-10-2022,brownie,misc_&_combo,,6,pcs,360,acc,,,,,,brownies,chocolate coated,2022,10,16,0,41,4
+27-10-2022,cupcake,chocolate,,6,pcs,540,acc,,,,11.03435,77.03337,cupcakes,chocolate,2022,10,27,4,43,4
+03-11-2022,cupcake,,,6,pcs,570,acc,,,,,,cupcake,,2022,11,3,4,44,4
+07-11-2022,cupcake,misc_&_combo,babyshower,15,pcs,1000,acc,,,,11.06397,77.08163,cupcake,assorted,2022,11,7,1,45,4
+09-11-2022,brownie,brownie,,10,pcs,650,acc,,,,,,brownies,brownies,2022,11,9,3,45,4
+09-11-2022,cupcake,misc_&_combo,,6,pcs,390,acc,,,,10.90398,76.96055,pineapple cupcake,cupcake,2022,11,9,3,45,4
+12-11-2022,brownie,misc_&_combo,,7,pcs,655,acc,,,,11.08125,77.00205,brownies,chocolate coated,2022,11,12,6,45,4
+12-11-2022,brownie,misc_&_combo,,12,pcs,1140,acc,,,,11.08125,77.00205,brownies,Nutella,2022,11,12,6,45,4
+13-11-2022,misc_&_combo,chocolate,,5,pcs,425,acc,,,,11.04465,77.03762,lavacake,chocolate,2022,11,13,0,45,4
+14-11-2022,cupcake,vanilla,,25,pcs,975,acc,,,,11.08413,77.10598,cupcake (mini),vanilla,2022,11,14,1,46,4
+17-11-2022,,hazelnut,,6,pcs,120,acc,,,,,,,hazelnuts,2022,11,17,4,46,4
+18-11-2022,cupcake,pineapple,,12,pcs,1140,acc,,,,10.99849,76.96426,cupcake,pine apple,2022,11,18,5,46,4
+18-11-2022,cookie,chocochip,,5,pcs,190,cash,,,,11.04081,77.07688,chocochip cookies,chocochip,2022,11,18,5,46,4
+20-11-2022,cupcake,vanilla,,12,pcs,400,cash,,,,,,cupcakes,vanilla,2022,11,20,0,46,4
+24-11-2022,cakesicle,chocolate,,2,pcs,160,acc,,,,11.07806,77.03695,cakesicls,chocolate,2022,11,24,4,47,4
+03-12-2022,cupcake,vanilla,,9,pcs,,acc,,,,,,cupcake,vanilla,2022,12,3,6,48,4
+08-12-2022,cookie,misc_&_combo,,10,pcs,400,acc,,,,,,cookies,10pcs,2022,12,8,4,49,4
+09-12-2022,brownie,misc_&_combo,,8,pcs,680,cash,,,,11.10226,77.17806,brownies,with truffle sauce,2022,12,9,5,49,4
+13-12-2022,eclair,chocolate,,10,pcs,250,acc,,,,11.08413,77.10598,eclair,chocolate,2022,12,13,2,50,4
+21-12-2022,brownie,chocolate,,5,pcs,600,acc,,,,,,brownies,chocolate overloaded,2022,12,21,3,51,4
+22-12-2022,eclair,chocolate,,40,pcs,980,acc,,,,11.07098,77.10364,eclair,chocolate,2022,12,22,4,51,4
+22-12-2022,eclair,chocolate,,25,pcs,655,acc,,,,11.00778,77.07115,eclair,chocolate,2022,12,22,4,51,4
+24-12-2022,misc_&_combo,chocolate,,12,pcs,420,acc,,,,10.982987,76.99679,mini tarts,chocolate,2022,12,24,6,51,4
+20-08-2022,cookie,vanilla,,30,pcs,600,acc,,,,,,cookies,vanilla,2022,8,20,6,33,3
+17-11-2022,,rasmalai,,6,pcs,150,acc,,,,,,,rasmalai,2022,11,17,4,46,4
+16-10-2022,cupcake,,,10,pcs,200,acc,,,,,,cupcakes,,2022,10,16,0,41,4
+30-01-2021,eclair,chocolate,,2,pcs,80,acc,,yes,,,,eclair,chocolate,2021,1,30,6,4,1
+02-03-2022,cheesecake,,,2,pcs,100,acc,,no,,,,cheesecake,,2022,3,2,3,9,1
+28-03-2022,cupcake,chocolate,,6,pcs,390,acc,,,,11.03488,77.03382,cupcake,chocolate,2022,3,28,1,13,1
+05-02-2021,cupcake,chocolate,,12,pcs,480,acc,,yes,,11.03885,77.02051,cupcakes,chocolate,2021,2,5,5,5,1
+09-07-2021,macaron,mixed,,8,pcs,560,acc,,yes,,,,macarons,mixed,2021,7,9,5,27,3
+16-04-2021,eclair,strawberry,,2,pcs,90,acc,,yes,80,10.97594,77.15541,eclair,straberry,2021,4,16,5,15,2
+18-04-2021,macaron,mixed,,10,pcs,600,acc,,yes,,11.01164,76.99799,macarons,mixed,2021,4,18,0,15,2
+18-04-2021,eclair,chocolate,,5,pcs,225,acc,,yes,,11.01774,76.98339,eclair,chocolate,2021,4,18,0,15,2
+22-04-2021,cupcake,chocolate,,10,pcs,450,acc,,yes,100,11.02713,76.9647,cup cake,chocolate,2021,4,22,4,16,2
+27-02-2021,cake,misc_&_combo,,1,pcs,1100,acc,,no,,,,cake,pineta,2021,2,27,6,8,1
+20-01-2021,cupcake,chocolate,,6,pcs,240,cash,,yes,,11.06029,77.08439,cup cake,chocolate,2021,1,20,3,3,1
+06-04-2022,misc_&_combo,misc_&_combo,,3,pcs,210,acc,,no,,,,tarts,chocolate hazelnuts,2022,4,6,3,14,2
+07-04-2022,cookie,chocochip,,35,pcs,420,acc,,,,11.01712,76.98326,cookies,chocochip,2022,4,7,4,14,2
+11-04-2022,cupcake,strawberry,unicorn theam,10,pcs,900,acc,,,,11.08134,76.99026,cupcake,strawberry,2022,4,11,1,15,2
+30-05-2022,cheesecake,,,3,pcs,360,acc,,,,11.07016,77.12767,cheesecake,,2022,5,30,1,22,2
+30-05-2022,brownie,chocochunk,,9,pcs,585,cash,,,,11.10169,77.17862,brownies,chocochunk,2022,5,30,1,22,2
+25-05-2021,brownie,chocochunk,,9,pcs,430,acc,,no,,,,brownies,chocochunk,2021,5,25,2,21,2
+23-06-2022,cupcake,vanilla,,6,pcs,390,acc,,,,11.1088,77.03054,cupcake,vanilla,2022,6,23,4,25,2
+12-02-2021,cupcake,vanilla,,30,pcs,1500,cash,,,,11.01704,77.18401,cupcakes,vanilla,2021,2,12,5,6,1
+30-01-2022,brownie,chocochunk,,2,pcs,120,acc,,no,,,,brownies,chocochunk,2022,1,30,0,4,1
+30-01-2022,cheesecake,misc_&_combo,,2,pcs,190,acc,,no,,,,cheese cakes,strawberry&lotus,2022,1,30,0,4,1
+01-02-2022,donut,chocolate,,4,pcs,170,acc,,,,,,donuts,chocolate,2022,2,1,2,5,1
+03-02-2022,brownie,chocochunk,,6,pcs,360,acc,,,,,,6pcs,chocochunk,2022,2,3,4,5,1
+30-09-2022,cheesecake,strawberry,,2,pcs,196,acc,,,,,,cheesecake,strawberry,2022,9,30,5,39,3
+24-12-2022,cupcake,mixed,,10,pcs,700,acc,,,,11.10515,77.17505,cupcakes,mixed flavours,2022,12,24,6,51,4
+10-04-2022,cupcake,chocolate,,35,pcs,1750,acc,,,,,,cupcake,chocolate,2022,4,10,0,14,2
+26-12-2022,cupcake,,,9,pcs,855,acc,,,,,,cupcake,,2022,12,26,1,52,4
+04-06-2021,cupcake,chocolate,custamaiced,6,pcs,430,acc,,no,,,,cupcake,chocolate,2021,6,4,5,22,2
+15-12-2021,brownie,lotus_biscoff,,7,pcs,665,acc,,,,,,brownies,lotus,2021,12,15,3,50,4
+21-01-2022,misc_&_combo,,,5,pcs,200,acc,,yes,,,,protein bars,,2022,1,21,5,3,1
+28-11-2022,cakesicle,,,4,pcs,340,acc,,,,,,cakesicls,,2022,11,28,1,48,4
+12-03-2022,macaron,mixed,,5,pcs,325,acc,,,,,,macarons,mixed,2022,3,12,6,10,1
+13-03-2022,cupcake,vanilla,blue and green,9,pcs,540,acc,,,,,,cupcakes,vanilla,2022,3,13,0,10,1
+15-03-2022,brownie,,,8,pcs,520,acc,,,,11.08149,77.13255,brownies,,2022,3,15,2,11,1
+17-03-2022,cupcake,strawberry,,6,pcs,450,acc,,,,,,cupcake,strawberry,2022,3,17,4,11,1
+17-03-2022,brownie,chocochunk,,9,pcs,585,acc,,,,11.00878,77.0838,brownies,chocochunk,2022,3,17,4,11,1
+03-05-2021,cookie,misc_&_combo,,250,gram,130,acc,,,,,,cookies,contrushugar,2021,5,3,1,18,2
+28-01-2021,cookie,wholewheat,,500,gram,350,cash,,yes,,11.04442,77.08102,cookies,wholewheat&sugar. C,2021,1,28,4,4,1
+08-03-2021,cookie,wholewheat,,300,gram,200,acc,,yes,,11.0045,77.03344,cookies,whole wheat,2021,3,8,1,10,1
+16-10-2021,misc_&_combo,misc_&_combo,,200,gram,200,acc,,,,,,cookies ticks,special,2021,10,16,6,41,4
+18-11-2021,cookie,wholewheat,,250,gram,250,,,,,,,cookies,wholewheat,2021,11,18,4,46,4
+05-09-2022,misc_&_combo,misc_&_combo,Reema birthday,900,gram,1300,acc,,,,11.01195,76.9975,bundt cake,chocolate cake with berries,2022,9,5,1,36,3
+19-09-2022,jam,blueberry,,200,gram,480,acc,,,,11.05034,77.01165,jam,blueberry,2022,9,19,1,38,3
+11-10-2022,moulded_ganache_cake,chocolate,,700,gram,1200,acc,,,,10.97989,77.03857,moulded ganache cake,chocolate,2022,10,11,2,41,4
+16-11-2022,cookie,wholewheat,,400,gram,350,acc,,,,10.92258,76.98262,cookies,whole wheat,2022,11,16,3,46,4
+23-11-2022,cookie,wholewheat,,500,gram,420,acc,,,,11.08663,77.13393,cookies,whole wheat,2022,11,23,3,47,4
+24-11-2022,cheesecake,blueberry,,500,gram,850,acc,,,,11.08253,77.12183,cheese cake,blueberry,2022,11,24,4,47,4
+24-11-2022,cheesecake,misc_&_combo,,500,gram,850,acc,,,,11.07806,77.03695,cheese cake,plain,2022,11,24,4,47,4
+24-11-2022,cookie,wholewheat,,250,gram,340,acc,,,,11.07806,77.03695,cookies,whole wheat,2022,11,24,4,47,4
+12-12-2022,cookie,,,250,gram,350,acc,,,,11.06245,77.02921,whole wheat cookies,,2022,12,12,1,50,4
+24-12-2022,cheesecake,blueberry,,500,gram,850,acc,,,,10.982987,76.99679,cheese cake,blue berry,2022,12,24,6,51,4
+24-12-2022,fruit_cake,fruitcake,,850,gram,1000,acc,,,,11.10515,77.17505,fruit cakeb,fruit cake,2022,12,24,6,51,4
+28-01-2021,hamper,misc_&_combo,,1,box,380,acc,,yes,,11.05454,77.10852,hamper box,"brownies ,eclair,cookies",2021,1,28,4,4,1
+28-01-2021,hamper,misc_&_combo,,1,box,400,acc,,yes,,11.01639,77.13371,hamper box,"eclair,cupcake, brownies",2021,1,28,4,4,1
+24-07-2021,misc_&_combo,,,1,box,200,acc,,,,,,meringue,,2021,7,24,6,29,3
+20-08-2022,bento,truffle,,1,box,250,acc,,,,,,bento,truffle,2022,8,20,6,33,3
+21-12-2021,hamper,christmas,,1,box,400,acc,,no,,,,hamper,christmas,2021,12,21,2,51,4
+21-12-2021,hamper,christmas,,1,box,400,acc,,no,,,,hamper,christmas,2021,12,21,2,51,4
+31-12-2021,hamper,misc_&_combo,,1,box,800,acc,,,,11.05972,77.08275,hamper,"fruitcake,cookies ,entremet ,truffles ,eclair",2021,12,31,5,52,4
+24-01-2022,brookie,,,2,box,500,acc,,yes,,,,brookies,,2022,1,24,1,4,1
+12-02-2022,,truffle,,1,box,250,acc,,no,,,,,truffle,2022,2,12,6,6,1
+16-04-2022,brookie,chocolate,,2,box,500,cash,,no,,,,brookies,chocolate,2022,4,16,6,15,2
+17-04-2022,brookie,,,1,box,150,acc,,,,11.01739,76.99594,brookies,,2022,4,17,0,15,2
+18-04-2022,brookie,,,2,box,400,cash,,no,,,,brookies,,2022,4,18,1,16,2
+11-06-2022,brookie,chocolate,,1,box,280,acc,,,,11.04533,77.00097,brookies,chocolate,2022,6,11,6,23,2
+18-07-2022,bento,lotus_biscoff,,1,box,300,acc,,,,11.06272,77.03061,bento,lotusbiscoff,2022,7,18,1,29,3
+18-07-2022,bento,lotus_biscoff,,1,box,300,acc,,,,11.06272,77.03061,bento,lotusbiscoff,2022,7,18,1,29,3
+24-07-2022,brookie,chocolate,,1,box,350,cash,,,,11.04081,77.07688,brookie,chocolate,2022,7,24,0,29,3
+09-08-2022,bento,truffle,,1,box,250,acc,,,,11.06589,77.004,bento,truffle,2022,8,9,2,32,3
+20-01-2022,misc_&_combo,,,1,box,,,,,,,,brookies /brownies/petitdefruit,,2022,1,20,4,3,1
+20-01-2022,misc_&_combo,,,1,box,600,acc,,,,,,brookies /brownies/petitdefruit,,2022,1,20,4,3,1
+22-10-2022,brookie,chocolate,,1,box,300,acc,,,,,,brookies,chocolate,2022,10,22,6,42,4
+06-11-2022,brookie,chocolate,,2,box,540,acc,,,,11.05025,77.0681,brookies,chocolate,2022,11,6,0,44,4
+08-03-2021,brownie,chocochunk,,4,pcs,180,,,yes,,,,brownies,chocochunk,2021,3,8,1,10,1
+06-11-2022,misc_&_combo,misc_&_combo,,2,box,400,acc,,,,11.02739,77.02163,assorted bonbons,"rasmalai ,hazelnut ,caramel",2022,11,6,0,44,4
+18-11-2022,bento,hazelnut,,1,box,320,cash,,,,11.04081,77.07688,bento,hazelnuts,2022,11,18,5,46,4
+25-11-2022,bento,chocolate,,1,box,280,acc,,,,11.06383,77.08166,bento,chocolate,2022,11,25,5,47,4
+25-11-2022,bento,mango,,1,box,280,acc,,,,11.06383,77.08166,bento,mango,2022,11,25,5,47,4
+22-12-2022,bento,blueberry,,1,box,250,cash,,,,11.06495,77.0819,bento,blueberry,2022,12,22,4,51,4
+28-03-2022,bento,truffle,,1,box,250,acc,,,,11.03488,77.03382,bento,truffle,2022,3,28,1,13,1
+05-04-2022,brookie,chocolate,,1,box,250,acc,,,,,,brookies,chocolate,2022,4,5,2,14,2
+06-04-2022,brookie,chocolate,,1,box,250,acc,,no,,,,brookies,chocolate,2022,4,6,3,14,2
+29-01-2022,brookie,chocolate,,1,box,280,cash,,,,11.0989,77.18061,brookies,chocolate,2022,1,29,6,4,1
+29-01-2022,cookie,butterscotch,,1,box,200,acc,,,,11.07805,77.03718,cookiebox,butterscotch,2022,1,29,6,4,1
+30-01-2022,brookie,chocolate,,1,box,250,acc,,no,,,,brookies,chocolate,2022,1,30,0,4,1
+26-12-2022,misc_&_combo,,,1,box,720,acc,,,,,,christmas hamper,,2022,12,26,1,52,4
+12-02-2022,bento,lotus_biscoff,,1,box,250,acc,,no,,,,bento cake,biscoff,2022,2,12,6,6,1
+13-03-2022,brookie,,,1,box,250,acc,,,,11.02775,76.99272,brookies,,2022,3,13,0,10,1
+10-11-2021,jam,raspberry,,1,jar,500,acc,,,,11.04792,77.07211,jam,raspberry,2021,11,10,3,45,4
+15-04-2022,jam,pineapple,,1,jar,250,acc,,,,,,jam,pineapple,2022,4,15,5,15,2
+18-05-2022,jarcake,rasmalai,,1,jar,350,acc,,,,11.08308,76.98545,jar cake,rasamalai,2022,5,18,3,20,2
+07-07-2022,jarcake,rasmalai,,1,jar,300,acc,,,,11.01714,76.98478,jar,rasamalai jar,2022,7,7,4,27,3
+07-07-2022,jarcake,rasmalai,,1,jar,300,acc,,,,11.0753,77.03559,jar,rasamalai,2022,7,7,4,27,3
+07-07-2022,jarcake,rasmalai,,1,jar,300,acc,,,,11.06694,77.05193,jar,rasamalai,2022,7,7,4,27,3
+07-07-2022,jarcake,truffle,,1,jar,250,acc,,,,11.06694,77.05193,jar,truffle,2022,7,7,4,27,3
+07-07-2022,jarcake,misc_&_combo,,1,jar,300,acc,,,,11.06694,77.05193,jar,chocolate hazelnuts,2022,7,7,4,27,3
+29-09-2022,misc_&_combo,rasmalai,,1,jar,280,acc,,,,11.07995,77.17778,rasmalai jar,rasmalai,2022,9,29,4,39,3
+29-09-2022,misc_&_combo,rasmalai,,1,jar,280,acc,,,,11.05034,77.01165,rasmalai jar,rasmalai,2022,9,29,4,39,3
+01-03-2021,misc_&_combo,chocolate,,1,misc_4+3 pcs,295,acc,,yes,,11.0045,77.03344,eclair and brownies,chocolate,2021,3,1,1,9,1
+01-03-2021,misc_&_combo,chocolate,,1,misc_6+6pcs,510,acc,,yes,,11.04228,77.04931,eclair and brownies,chocolate,2021,3,1,1,9,1
+01-05-2021,misc_&_combo,chocovanilla,,1,misc_9pcs&12pcs,885,acc,,yes,,11.01577,77.13315,brownies&cupcake,chocolate &vanilla,2021,5,1,6,17,2
+16-08-2021,misc_&_combo,chocolate,,1,misc_1bunch,200,acc,,,,,,cookiesticks,chocolate,2021,8,16,1,33,3
+08-09-2022,brookie,chocolate,,4,box,1400,acc,,,130,,,brookies,chocolate,2022,9,8,4,36,3
+19-11-2022,brookie,chocolate,,4,box,1400,acc,,,,,,brookies,chocolate,2022,11,19,6,46,4
+10-12-2022,bento,lotus_biscoff,,1,box,290,acc,,,,,,bento,biscoff,2022,12,10,6,49,4
+14-12-2022,bento,chocolate,,1,box,250,acc,,,,,,bento,chocolate,2022,12,14,3,50,4
+17-12-2022,bento,chocolate,,1,box,250,acc,,,,,,bento,chocolate,2022,12,17,6,50,4
+17-12-2022,bento,chocolate,,1,box,300,acc,,,,,,bento,chocolate,2022,12,17,6,50,4
+20-12-2022,bento,blueberry,,1,box,300,acc,,,,,,bento,blueberry,2022,12,20,2,51,4
+21-12-2022,bento,chocolate,violet butterfly,1,box,320,acc,,,,,,bento,chovolate,2022,12,21,3,51,4
+25-12-2022,brookie,,,4,box,1400,acc,,,,,,brookies,,2022,12,25,0,51,4
+15-07-2021,cupcake,misc_&_combo,,6,pcs,420,acc,,,,,,cupcake,country sugar wholewheat,2021,7,15,4,28,3
+15-07-2021,macaron,chocolate,,3,pcs,180,acc,,yes,,11.05008,77.01328,macarons,chocolate,2021,7,15,4,28,3
+23-07-2021,cupcake,chocolate,,6,pcs,360,acc,,yes,,11.05792,77.07472,cupcakes,chocolate,2021,7,23,5,29,3
+02-01-2021,cupcake,misc_&_combo,,6,pcs,240,cash,,yes,,,,cupcake,mixed berries,2021,1,2,6,53,1
+16-01-2021,cupcake,vanilla,father,10,pcs,550,acc,,,,,,cupcakes,vanilla,2021,1,16,6,2,1
+17-01-2021,cupcake,hazelnut,housewarming,6,pcs,390,acc,,yes,,11.03233,77.00879,cupcake,hazelnuts,2021,1,17,0,2,1
+31-01-2021,cupcake,chocolate,,8,pcs,320,acc,30,yes,,11.02425,77.00382,cupcakes,chocolate,2021,1,31,0,4,1
+14-02-2021,eclair,chocolate,,2,pcs,80,cash,,,,,,eclair,chocolate,2021,2,14,0,6,1
+15-02-2021,eclair,chocolate,,5,pcs,200,,,,,,,eclair,chocolate,2021,2,15,1,7,1
+26-02-2021,cupcake,chocolate,anniversary,6,pcs,400,,,yes,,11.04621,77.01415,cupcakes,chocolate,2021,2,26,5,8,1
+02-03-2021,cupcake,vanilla,,6,pcs,900,acc,,yes,,11.07511,77.05599,cupcakes,vanilla,2021,3,2,2,9,1
+03-03-2021,cupcake,pineapple,,10,pcs,450,acc,,no,,,,cupcake,pineapple,2021,3,3,3,9,1
+04-03-2021,eclair,chocolate,,5,pcs,200,acc,,yes,,11.02545,77.12462,eclair,chocolate,2021,3,4,4,9,1
+08-03-2021,cupcake,misc_&_combo,,6,pcs,270,acc,,yes,,,,cupcake,straberry &pineapple,2021,3,8,1,10,1
+08-03-2021,brownie,chocochunk,,5,pcs,225,,,yes,,11.0508,77.06891,brownies,chocochunk,2021,3,8,1,10,1
+31-03-2021,cupcake,chocolate,makeups,6,pcs,380,,,no,,,,cupcake,chocolate,2021,3,31,3,13,1
+10-04-2021,cupcake,chocolate,BTS,6,pcs,390,cash,,yes,60,11.0027,76.99055,cupcake,chocolate,2021,4,10,6,14,2
+11-04-2021,cupcake,chocolate,hospital,6,pcs,360,acc,,yes,,11.0604,77.08414,cupcake,chocolate,2021,4,11,0,14,2
+11-04-2021,macaron,strawberry,,1,pcs,65,acc,,yes,,11.01195,76.99756,macarons,straberry,2021,4,11,0,14,2
+16-04-2021,brownie,chocochunk,,9,pcs,360,acc,,yes,,11.00161,77.07126,brownies,chocochunk,2021,4,16,5,15,2
+26-04-2021,brownie,misc_&_combo,,6,pcs,420,cash,,yes,,,,brownies,Nutella,2021,4,26,1,17,2
+26-04-2021,brownie,chocochunk,,12,pcs,540,acc,,yes,,11.04259,77.03758,brownies,chocochunk,2021,4,26,1,17,2
+27-04-2021,brownie,chocochunk,,6,pcs,270,cash,30,yes,,11.00161,77.07126,brownies,chocochunk,2021,4,27,2,17,2
+30-04-2021,cupcake,vanilla,animal,6,pcs,4200,acc,,no,,,,cupcake,vanilla,2021,4,30,5,17,2
+09-05-2021,eclair,chocolate,,12,pcs,440,cash,,,,,,eclair,chocolate,2021,5,9,0,18,2
+15-05-2021,brownie,chocochunk,,4,pcs,200,,,yes,,11.0543,77.06724,brownies,chocochunk,2021,5,15,6,19,2
+11-06-2021,,misc_&_combo,,1,pcs,1100,acc,,no,,,,,pinata,2021,6,11,5,23,2
+23-06-2021,brownie,chocochunk,,9,pcs,450,acc,,no,,,,brownie cake,chocochunk,2021,6,23,3,25,2
+08-02-2021,cupcake,mixed,,,,,,,,,,,cupcake s,mixed,2021,2,8,1,6,1
+26-06-2021,brownie,chocochunk,,9,pcs,550,acc,,no,,,,brownie cake,chocochunk,2021,6,26,6,25,2
+20-11-2022,,,,10,pcs,700,acc,,,,,,,,2022,11,20,0,46,4
+29-08-2021,brownie,chocochunk,,1,misc_1layer,680,acc,,yes,,11.11217,77.02028,brownie cake,chocochunk,2021,8,29,0,34,3
+23-08-2021,brownie,misc_&_combo,,1,misc_1layer,650,acc,,yes,,11.00301,76.99967,brownies cake,cake,2021,8,23,1,34,3
+28-08-2021,jam,raspberry,,1,misc_1bottle,600,acc,,yes,,11.02532,77.01374,jam,Raspberry,2021,8,28,6,34,3
+22-09-2021,misc_&_combo,misc_&_combo,,1,misc_bunch,250,acc,,,,,,cookie sticks,orange,2021,9,22,3,38,3
+30-10-2021,misc_&_combo,,,1,misc_9+6pcs,900,acc,,,,,,brownies &cupcakes,,2021,10,30,6,43,4
+07-05-2022,misc_&_combo,rosemilk,,1,misc_1tub,180,acc,,,,11.05132,77.12726,rosemilk tresletches,rosemilk,2022,5,7,6,18,2
+07-05-2022,misc_&_combo,rosemilk,,1,misc_1tub,180,acc,,,,11.05012,77.0115,rosemilk tresletches,rosemilk,2022,5,7,6,18,2
+10-05-2022,brownie,,,1,misc_medium size,730,cash,,,,11.10809,77.1743,brownies,,2022,5,10,2,19,2
+26-05-2022,brookie,chocolate,,1,misc_mini box 1,200,acc,,,,,,brookies,chocolate,2022,5,26,4,21,2
+11-06-2022,cheesecake,misc_&_combo,,1,misc_2+2,560,acc,,,,11.04533,77.00097,cheese cake,"mango,vanilla",2022,6,11,6,23,2
+30-07-2022,misc_&_combo,oreo,,1,misc_50shots,2200,acc,,,,11.07107,77.10356,mousse shots,Oreo,2022,7,30,6,30,3
+18-09-2022,misc_&_combo,wholewheat,,1,misc_1bunch,200,acc,,,,11.08614,77.13435,cookie stick,wholeeheet,2022,9,18,0,37,3
+24-09-2022,misc_&_combo,cheesegarlic,,1,misc_50mini buns,1100,acc,,,,11.04812,77.12493,garlic buns,cheese garlic,2022,9,24,6,38,3
+03-10-2022,misc_&_combo,misc_&_combo,i love u,1,misc_6+3pcs,550,acc,,,,11.04156,77.00083,cupcake &cookies,chocolate & chocochip,2022,10,3,1,40,4
+24-10-2022,misc_&_combo,,,1,misc_8+2,320,cash,,,,11.01096,77.01284,rasmalai truffles & gulabi cheese cake,,2022,10,24,1,43,4
+04-11-2022,entremet,strawberry,,1,misc_large,1450,acc,,,,11.01179,76.99797,entremet,strawberry,2022,11,4,5,44,4
+11-02-2021,misc_&_combo,redvelvet,,1,misc_1kg&12pcs,1800,acc,,yes,200,10.99324,77.29554,cake $cupcake,redvelvet,2021,2,11,4,6,1
+19-04-2021,misc_&_combo,chocolate,,1,misc_0.5kg+9pcs,810,acc,,yes,,11.00733,77.0808,cake &brownies,chocolate,2021,4,19,1,16,2
+31-12-2022,,brownie,,1,misc_larg slab,720,,,,,,,,brownies,2022,12,31,6,52,4
+25-08-2021,jam,raspberry,,1,misc_1bottle,600,acc,,yes,,11.04975,77.01401,jam,raspberry,2021,8,25,3,34,3
+06-06-2022,entremet,strawberry,,1,misc_heart shape,1300,acc,,,,,,entremet,strawberry,2022,6,6,1,23,2
+23-12-2022,donut,misc_&_combo,,1,misc_20*3skewer,1800,acc,,,,,,donuts,small,2022,12,23,5,51,4
+28-02-2022,misc_&_combo,misc_&_combo,,1,"misc_6,6",650,acc,,,,,,brownies &cupcakes,chocolate amd mixed fruits,2022,2,28,1,9,1
+14-10-2021,misc_&_combo,,,,,80,acc,,yes,,11.06777,77.06675,proteinbar,,2021,10,14,4,41,4
+16-12-2021,hamper,misc_&_combo,,,,400,acc,,,,,,hamper 1,"brownies,truffles,eclair5,cakebites,",2021,12,16,4,50,4
+16-12-2021,hamper,misc_&_combo,,,,300,acc,,,,,,hamper 2,"brownie,eclair,cookies,truffle",2021,12,16,4,50,4
+24-12-2021,hamper,mixed,,,,430,acc,,,,10.9984,77.02665,hamper,mixed,2021,12,24,5,51,4
+25-12-2021,hamper,,,,,,,,,,11.05717,77.07038,hamper,,2021,12,25,6,51,4
+27-12-2021,hamper,christmas,,,,700,acc,,,,,,hamper,christmas,2021,12,27,1,52,4
+08-02-2022,brownie,chocolate,,,,,,,,,,,brownies,chocolate,2022,2,8,2,6,1
+08-02-2022,cupcake,strawberry,,,,,,,,,,,cupcakes,strawberry,2022,2,8,2,6,1
+08-02-2022,cakesicle,misc_&_combo,,,,,,,,,,,cakesicls,strawberry /chocolate,2022,2,8,2,6,1
+11-02-2022,misc_&_combo,,,,,600,acc,,,,11.07259,77.10635,marshmellow,,2022,2,11,5,6,1
+14-02-2022,cake,caramelnuts,green colour flowers cake,,,2500,acc,,,,11.13956,76.9313,cake,caramel nuts,2022,2,14,1,7,1
+17-02-2022,brookie,chocolate,S monogram,,,1000,acc,,,,11.15258,77.21086,brookies,chocolate,2022,2,17,4,7,1
+21-02-2022,bento,chocolate,,,,200,acc,,no,,,,bento,bento chocolate,2022,2,21,1,8,1
+10-06-2022,moulded_ganache_cake,strawberry,romantic heart,,,1300,cash,,,,10.91912,76.98473,moulded ganache,strawberry,2022,6,10,5,23,2
+05-07-2022,moulded_ganache_cake,pineapple,dark chocolate,,,1000,acc,,,,,,moulded ganach cake,pineapple,2022,7,5,2,27,3
+20-07-2022,cake,strawberry,red cake with rose,,,2730,acc,,,,,,cake,strawberry,2022,7,20,3,29,3
+24-07-2022,donut,mixed,,,,350,acc,,,,,,donuts,mixed,2022,7,24,0,29,3
+19-08-2022,,redvelvet,,1000,gram,1500,acc,,,,,,,redvelvet,2022,8,19,5,33,3
+09-09-2022,cake,chocolate,wedding cake,,,3180,acc,,,,,,cake,chocolate,2022,9,9,5,36,3
+23-08-2022,cake,,half birthday,,,980,acc,,,,11.07542,77.06562,cake,,2022,8,23,2,34,3
+28-09-2022,misc_&_combo,,,,,,,,,,,,rasmalai jar,,2022,9,28,3,39,3
+28-09-2022,misc_&_combo,misc_&_combo,,,,,,,,,,,garlic rooles,cheese,2022,9,28,3,39,3
+28-09-2022,cookie,chocolate,,,,,,,,,,,chocochip cookie,chocolate infusion,2022,9,28,3,39,3
+02-10-2022,misc_&_combo,,jumgletheam,,,,,,,,,,fondant topper,,2022,10,2,0,39,4
+29-10-2022,cake,misc_&_combo,adrin birthday,,,,,,,,,,cake,remainder,2022,10,29,6,43,4
+30-11-2022,bento,chocolate,,,,250,cash,,,,,,bento,chocolate,2022,11,30,3,48,4
+18-12-2022,cupcake,misc_&_combo,,,,660,acc,,,,,,cupcake,chocolate 6+mixed fruit 6,2022,12,18,0,50,4
+08-02-2022,eclair,chocolate,,,,,,,,,,,eclair,chocolate,2022,2,8,2,6,1
+28-05-2021,cake,chocolate,,1000,gram,800,,,no,,,,cake,chocolate,2021,5,28,5,21,2
+26-02-2022,cookie,misc_&_combo,,,,200,acc,,,,,,cookies,special orange,2022,2,26,6,8,1
+30-12-2022,,,,,,280,cash,,,,,,,,2022,12,30,5,52,4
+19-05-2021,cake,mango,,500,gram,450,,,no,,,,cake,mango,2021,5,19,3,20,2
+13-03-2021,cake,chocolate,,500,gram,660,acc,,yes,,11.02099,76.97549,cake,chocolate,2021,3,13,6,10,1
+14-04-2021,cake,strawberry,,500,gram,450,cash,,yes,100,11.03146,76.93074,cake,straberry,2021,4,14,3,15,2
+15-04-2021,cake,fusionberries,,500,gram,600,acc,,yes,,,,cake,fussionberries,2021,4,15,4,15,2
+14-05-2022,cake,blackforest,,1500,gram,1500,acc,,,,11.02257,76.9784,cake,blackforest,2022,5,14,6,19,2
+20-02-2021,cake,pineapple,car,1500,gram,1800,cash,,no,,,,cake,pineapple,2021,2,20,6,7,1
+02-04-2021,cake,strawberry,rainbow cake with cartoon toppers,1500,gram,1500,cash,,yes,,11.0499,77.06096,cake,straberry,2021,4,2,5,13,2
+02-05-2022,cake,pineapple,,1500,gram,,,,,,,,cake,pineapple,2022,5,2,1,18,2
+13-03-2021,cake,truffle,,1000,gram,1000,cash,,yes,,10.99301,77.08407,cake,truffle,2021,3,13,6,10,1
+14-04-2021,cake,truffle,printed,1000,gram,1300,cash,,,,,,cake,truffle,2021,4,14,3,15,2
+16-10-2022,cookie,,,10,pcs,300,acc,,,,,,chocochip cookies,,2022,10,16,0,41,4
+15-04-2021,eclair,misc_&_combo,,10,pcs,450,acc,,yes,,,,eclair,"chocolate ,straberry ,vanilla",2021,4,15,4,15,2
+19-04-2021,donut,chocolate,,6,pcs,270,,,yes,,,,donuts,chocolate,2021,4,19,1,16,2
+03-05-2021,cupcake,misc_&_combo,,6,pcs,360,acc,,,,,,cupcakes,contrusugar chocolate,2021,5,3,1,18,2
+03-05-2021,macaron,mixed,,3,pcs,180,acc,,yes,,11.05518,77.0197,macarons,mixed,2021,5,3,1,18,2
+23-05-2021,macaron,mango,,5,pcs,350,acc,,no,,,,macarons,mango,2021,5,23,0,20,2
+19-05-2022,jarcake,rasmalai,,2,pcs,520,acc,,,,11.05438,77.02273,Jar cake,rasamalai jar,2022,5,19,4,20,2
+27-01-2022,eclair,chocolate,,10,pcs,500,cash,,yes,,11.03007,76.94809,eclairs,chocolate,2022,1,27,4,4,1
+29-01-2022,brownie,chocolate,,5,pcs,300,,,,,,,brownies,chocolate,2022,1,29,6,4,1
+13-08-2022,brookie,chocolate,,1,box,300,acc,,,,,,brookies,chocolate,2022,8,13,6,32,3
+13-08-2022,brookie,,,1,box,300,acc,,,,,,brookies,,2022,8,13,6,32,3
+09-08-2022,brookie,chocolate,,1,box,300,acc,,,,11.06589,77.004,brookies,chocolate,2022,8,9,2,32,3
+13-08-2022,brookie,,,1,box,300,,,,,,,brookies,,2022,8,13,6,32,3
+13-08-2022,brookie,,,1,box,300,,,,,,,brookies,,2022,8,13,6,32,3
+16-08-2022,bento,lotus_biscoff,,1,box,350,acc,,,,11.00244,77.08226,bento,biscoff,2022,8,16,2,33,3
+01-11-2021,hamper,,,1,misc_1,600,acc,,,,11.01241,77.08514,hamper diwali,,2021,11,1,1,44,4
+12-12-2021,cookie,misc_&_combo,,1,misc_1bunch,100,acc,,,,,,cookies,cranberry,2021,12,12,0,49,4
+26-12-2021,misc_&_combo,misc_&_combo,,1,misc_6+9pca,1008,,,,,11.00878,77.0838,cupcake &brownies,strawberry and chocolate,2021,12,26,0,51,4
+02-05-2022,cupcake,misc_&_combo,,1,misc_5+5no,700,acc,,,,,,cupcake,blueberry &vanilla,2022,5,2,1,18,2
+07-05-2022,misc_&_combo,rosemilk,,1,misc_1tub,190,acc,,,,11.05438,77.02273,rosemilk tresletches,rosemilk,2022,5,7,6,18,2
+12-02-2021,brownie,chocochunk,,9,pcs,400,acc,,,,,,brownies,chocochunk,2021,2,12,5,6,1
+04-04-2022,cake,chocolate,,500,gram,500,acc,,,,,,cake,chocolate,2022,4,4,1,14,2
+12-02-2021,eclair,chocolate,,9,pcs,360,acc,,,,,,eclair,chocolate,2021,2,12,5,6,1
+04-02-2021,cake,whiteforest,,500,gram,500,acc,,,,,,cake,whiteforest,2021,2,4,4,5,1
+28-01-2021,cake,mango,,500,gram,400,,,no,,,,cake,mango,2021,1,28,4,4,1
+09-06-2021,cake,mango,,500,gram,450,cash,,no,,,,cake,mango,2021,6,9,3,23,2
+26-05-2021,cake,blackforest,,1000,gram,800,cash,,no,,,,cake,blackforesr,2021,5,26,3,21,2
+08-02-2021,cake,mixed,blue moon,3000,gram,,,,,,,,cake,mixes,2021,2,8,1,6,1
+30-07-2021,cakesicle,chocolate,,4,pcs,240,cash,,,,,,cakesicls,chocolate,2021,7,30,5,30,3
+17-07-2021,brownie,chocochip,,9,pcs,,,,yes,,,,brownies,chocochip,2021,7,17,6,28,3
+31-01-2021,brownie,chocolate,,3,pcs,120,,,no,,,,brownies,chocolate,2021,1,31,0,4,1
+16-04-2021,brownie,chocochunk,,9,pcs,409,acc,,,,,,brownies,chocochunk,2021,4,16,5,15,2
+28-04-2022,cake,blackforest,,500,gram,400,acc,,no,,,,cake,blackfores,2022,4,28,4,17,2
+27-06-2021,cake,truffle,,1500,gram,1400,acc,,,,,,cake,truffle,2021,6,27,0,25,2
+19-11-2021,cake,chocolate,,1000,gram,1050,acc,,,,10.92969,77.01867,cake,chocolate,2021,11,19,5,46,4
+13-01-2021,cake,caramel,,1000,gram,950,acc,,no,,,,cake,caramel,2021,1,13,3,2,1
+28-04-2022,cake,whiteforest,isomalt candies pink,2000,gram,2600,acc,,,,11.07766,76.94211,cake,whiteforest,2022,4,28,4,17,2
+27-02-2022,cake,pineapple,babyshower,3000,gram,3200,acc,,,,,,cake,pineapple,2022,2,27,0,8,1
+08-03-2022,cake,blueberry,loyet,1000,gram,1700,acc,,,,,,cake,blueberry,2022,3,8,2,10,1
+18-06-2022,brownie,chocochunk,,9,pcs,585,acc,,,,,,bronwies,chocochunk,2022,6,18,6,24,2
+26-04-2022,brownie,chocochunk,,9,pcs,550,acc,,no,,,,brownies,chocochunk,2022,4,26,2,17,2

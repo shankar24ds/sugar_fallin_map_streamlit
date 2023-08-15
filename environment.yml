@@ -1,0 +1,9 @@
+name: sugar_fallin_map_streamlit
+channels:
+  - defaults
+dependencies:
+  - python=3.9.17
+  - pandas
+  - jupyter
+  - streamlit
+  - folium
